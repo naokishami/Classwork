@@ -1,0 +1,108 @@
+a:link {
+  /* Applies to all unvisited links */
+  text-decoration: none;
+  color: white;
+  font-size: large;
+
+}
+
+a:visited {
+  /* Applies to all visited links */
+  text-decoration: none;
+  font-weight: bold;
+  background-color: #ddd;
+  color: white;
+  font-size: xx-large;
+}
+
+#container {
+  background-image: url("https://img.freepik.com/free-photo/blurred-interior-hospital-clinical-with-people_1484-2139.jpg?size=626&ext=jpg");
+  padding: 10%;
+  /* width: 626px;
+  height: 417px; */
+  margin-left: auto;
+  margin-right: auto;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  text-decoration: none;
+}
+
+h1.header {
+  text-align: center;
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 48px;
+  color: black;
+}
+
+h2.header {
+  text-align: center;
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 48px;
+  color: white;
+}
+
+body {
+  background-color: #99c4e0;
+  font-family: 'Shadows Into Light', cursive;
+  text-decoration: none;
+}
+
+
+
+/* Style the navbar */
+#navbar {
+  overflow: hidden;
+  background-color: #ffffff;
+}
+
+/* Navbar links */
+#navbar a {
+  float: left;
+  display: block;
+  color: #000000;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+}
+
+/* Page content */
+.content {
+  padding: 16px;
+}
+
+/* The sticky class is added to the navbar with JS when it reaches its scroll position */
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+/* Add some top padding to the page content to prevent sudden quick movement (as the navigation bar gets a new position at the top of the page (position:fixed and top:0) */
+.sticky+.content {
+  padding-top: 60px;
+}
+
+
+footer {
+  color: white;
+}
+
+div.box {
+  margin: 1px;
+  background-color: #ffffff;
+  border: 1px solid black;
+  /* opacity: 0.6; */
+  width: 450px;
+  height: 300px;
+  padding: 1%;
+  display: inline-block;
+}
+
+div.box p {
+
+  font-weight: bold;
+  color: #000000;
+
+}
