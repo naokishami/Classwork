@@ -1,0 +1,631 @@
+﻿Country Name,Country Code,Series Name,Series Code,2010 [YR2010],2011 [YR2011],2012 [YR2012],2013 [YR2013],2014 [YR2014],2015 [YR2015],2016 [YR2016],2017 [YR2017],2018 [YR2018],2019 [YR2019]
+Afghanistan,AFG,Age dependency ratio (% of working-age population),SP.POP.DPND,102.045822933537,100.22446079515,97.9259470792508,95.3387417894031,92.6491409190029,89.9540923341871,87.9417901503625,86.0007530959387,84.0776560757747,82.1097746744375
+Afghanistan,AFG,"Age dependency ratio, old",SP.POP.DPND.OL,4.70389257344101,4.71420854849727,4.72309470865552,4.7276027993058,4.72293792821488,4.7083204539433,4.73598531272863,4.75092540711815,4.75827282360713,4.76361694888949
+Afghanistan,AFG,"Age dependency ratio, young",SP.POP.DPND.YG,97.3419303600957,95.5102522466522,93.2028523705953,90.6111389900973,87.926202990788,85.2457718802438,83.2058048376338,81.2498276888205,79.3193832521676,77.3461577255481
+Afghanistan,AFG,"Age population, age 00, female, interpolated",SP.POP.AG00.FE.IN,542129,541144,539409,537539,536553,537333,542779,549973,557981,565377
+Afghanistan,AFG,"Age population, age 00, male, interpolated",SP.POP.AG00.MA.IN,562586,561841,562794,564807,567175,569568,575645,581860,587940,593443
+Afghanistan,AFG,"Age population, age 01, female, interpolated",SP.POP.AG01.FE.IN,531183,537251,533957,535469,536969,538589,537854,547307,551777,556096
+Afghanistan,AFG,"Age population, age 01, male, interpolated",SP.POP.AG01.MA.IN,553409,557471,557382,561353,565060,567798,569813,577401,581216,584783
+Afghanistan,AFG,"Age population, age 02, female, interpolated",SP.POP.AG02.FE.IN,520209,527222,534315,531963,535560,538047,538176,537340,546330,548497
+Afghanistan,AFG,"Age population, age 02, male, interpolated",SP.POP.AG02.MA.IN,543625,548777,555121,556742,561680,564897,567550,568649,575171,577408
+Afghanistan,AFG,"Age population, age 03, female, interpolated",SP.POP.AG03.FE.IN,509133,516933,525165,532320,532449,535829,537161,536726,536250,542294
+Afghanistan,AFG,"Age population, age 03, male, interpolated",SP.POP.AG03.MA.IN,533231,539420,546864,554092,557091,560912,564447,565896,566657,571094
+Afghanistan,AFG,"Age population, age 04, female, interpolated",SP.POP.AG04.FE.IN,497881,506348,515521,524034,530052,532054,534837,535237,534701,535188
+Afghanistan,AFG,"Age population, age 04, male, interpolated",SP.POP.AG04.MA.IN,522219,529405,537886,546254,552671,555887,560489,562598,563420,564602
+Afghanistan,AFG,"Age population, age 05, female, interpolated",SP.POP.AG05.FE.IN,486379,495432,505387,515021,522638,526841,531233,532812,532741,532705
+Afghanistan,AFG,"Age population, age 05, male, interpolated",SP.POP.AG05.MA.IN,510585,518738,528200,537633,545259,549869,555662,558678,559931,560882
+Afghanistan,AFG,"Age population, age 06, female, interpolated",SP.POP.AG06.FE.IN,474553,484108,494767,505321,514261,520313,526489,529387,530217,530275
+Afghanistan,AFG,"Age population, age 06, male, interpolated",SP.POP.AG06.MA.IN,498324,507414,517824,528256,537005,542903,550023,554062,556055,557204
+Afghanistan,AFG,"Age population, age 07, female, interpolated",SP.POP.AG07.FE.IN,462329,472298,483579,494979,505002,512588,520745,525122,526976,527653
+Afghanistan,AFG,"Age population, age 07, male, interpolated",SP.POP.AG07.MA.IN,485431,495429,506753,518146,527942,535035,543629,548816,551655,553372
+Afghanistan,AFG,"Age population, age 08, female, interpolated",SP.POP.AG08.FE.IN,449633,460179,471743,483908,494943,503787,513476,520175,523193,524593
+Afghanistan,AFG,"Age population, age 08, male, interpolated",SP.POP.AG08.MA.IN,471899,482834,494984,507302,518107,526311,536104,543011,546811,549189
+Afghanistan,AFG,"Age population, age 09, female, interpolated",SP.POP.AG09.FE.IN,436392,447801,459686,472025,483996,494030,504492,513378,519048,521293
+Afghanistan,AFG,"Age population, age 09, male, interpolated",SP.POP.AG09.MA.IN,457724,469651,482624,495721,507499,516776,527291,535850,541603,544746
+Afghanistan,AFG,"Age population, age 10, female, interpolated",SP.POP.AG10.FE.IN,422998,435002,447581,460008,472071,483225,494151,504226,512729,517947
+Afghanistan,AFG,"Age population, age 10, male, interpolated",SP.POP.AG10.MA.IN,443252,455859,469724,483567,496116,506430,517390,526969,534815,540134
+Albania,ALB,Age dependency ratio (% of working-age population),SP.POP.DPND,49.4779086790466,48.1180582286677,47.033079896868,46.2566558556374,45.7746795115992,45.5504024648604,45.6450337108694,45.6820974885622,45.8100373938934,46.2035217630944
+Albania,ALB,"Age dependency ratio, old",SP.POP.DPND.OL,15.9125347586229,16.3151924258376,16.743383665768,17.2155537368777,17.7563717993417,18.3779738972574,18.8700857938335,19.4180639378306,20.0412141646094,20.7647356526265
+Albania,ALB,"Age dependency ratio, young",SP.POP.DPND.YG,33.5653739204237,31.8028658028301,30.2896962311,29.0411021187597,28.0183077122575,27.172428567603,26.7749479170359,26.2640335507317,25.7688232292839,25.438786110468
+Albania,ALB,"Age population, age 00, female, interpolated",SP.POP.AG00.FE.IN,16527,16858,17454,18126,18618,18752,18279,17449,16428,15476
+Albania,ALB,"Age population, age 00, male, interpolated",SP.POP.AG00.MA.IN,18186,18376,18877,19493,19955,20071,19669,18921,17977,17074
+Albania,ALB,"Age population, age 01, female, interpolated",SP.POP.AG01.FE.IN,15966,16077,16153,16536,16899,17116,18246,16724,16356,15974
+Albania,ALB,"Age population, age 01, male, interpolated",SP.POP.AG01.MA.IN,18031,17807,17947,18198,18441,18554,19598,18144,17783,17401
+Albania,ALB,"Age population, age 02, female, interpolated",SP.POP.AG02.FE.IN,15856,15657,15649,15487,15689,15912,16899,17796,16224,16258
+Albania,ALB,"Age population, age 02, male, interpolated",SP.POP.AG02.MA.IN,18224,17742,17465,17402,17429,17492,18364,19154,17603,17595
+Albania,ALB,"Age population, age 03, female, interpolated",SP.POP.AG03.FE.IN,16138,15646,15369,15243,14936,15102,15882,16734,17373,16366
+Albania,ALB,"Age population, age 03, male, interpolated",SP.POP.AG03.MA.IN,18717,18001,17491,17154,16865,16840,17483,18201,18722,17679
+Albania,ALB,"Age population, age 04, female, interpolated",SP.POP.AG04.FE.IN,16752,15987,15455,15104,14864,14648,15170,15898,16595,16947
+Albania,ALB,"Age population, age 04, male, interpolated",SP.POP.AG04.MA.IN,19464,18534,17815,17271,16862,16551,16927,17501,18049,18283
+Albania,ALB,"Age population, age 05, female, interpolated",SP.POP.AG05.FE.IN,17636,16624,15855,15287,14864,14510,14744,15283,15940,16452
+Albania,ALB,"Age population, age 05, male, interpolated",SP.POP.AG05.MA.IN,20415,19296,18390,17660,17070,16579,16665,17040,17529,17892
+Albania,ALB,"Age population, age 06, female, interpolated",SP.POP.AG06.FE.IN,18731,17505,16517,15746,15146,14651,14563,14883,15420,15979
+Albania,ALB,"Age population, age 06, male, interpolated",SP.POP.AG06.MA.IN,21524,20249,19168,18277,17526,16878,16651,16804,17163,17551
+Albania,ALB,"Age population, age 07, female, interpolated",SP.POP.AG07.FE.IN,19976,18576,17396,16435,15665,15031,14591,14660,15046,15555
+Albania,ALB,"Age population, age 07, male, interpolated",SP.POP.AG07.MA.IN,22742,21358,20125,19073,18185,17401,16839,16748,16953,17280
+Albania,ALB,"Age population, age 08, female, interpolated",SP.POP.AG08.FE.IN,21311,19768,18443,17312,16380,15612,14886,14576,14779,15206
+Albania,ALB,"Age population, age 08, male, interpolated",SP.POP.AG08.MA.IN,24021,22519,21236,20035,19000,18103,17280,16827,16856,17097
+Albania,ALB,"Age population, age 09, female, interpolated",SP.POP.AG09.FE.IN,22675,21022,19585,18338,17258,16355,15459,14787,14583,14897
+Albania,ALB,"Age population, age 09, male, interpolated",SP.POP.AG09.MA.IN,25315,23664,22343,21150,19969,18938,17976,17186,16824,16958
+Albania,ALB,"Age population, age 10, female, interpolated",SP.POP.AG10.FE.IN,24085,22289,20760,19431,18265,17235,16239,15354,14711,14588
+Albania,ALB,"Age population, age 10, male, interpolated",SP.POP.AG10.MA.IN,26618,24779,23357,22206,21090,19914,18849,17876,17101,16816
+Algeria,DZA,Age dependency ratio (% of working-age population),SP.POP.DPND,48.6745355689317,49.2130947282274,49.7782226763803,50.4972171724543,51.5091894345198,52.8377883037925,54.1840138271847,55.8040014735226,57.508032444058,58.9904904950003
+Algeria,DZA,"Age dependency ratio, old",SP.POP.DPND.OL,8.11198868902637,8.21955943821732,8.33669511342277,8.48312864559405,8.68620464764509,8.96185243837827,9.26334759584305,9.62433381113148,10.0214421059224,10.4182936955012
+Algeria,DZA,"Age dependency ratio, young",SP.POP.DPND.YG,40.5625468799053,40.99353529001,41.4415275629575,42.0140885268603,42.8229847868748,43.8759358654142,44.9206662313416,46.1796676623911,47.4865903381357,48.5721967994992
+Algeria,DZA,"Age population, age 00, female, interpolated",SP.POP.AG00.FE.IN,445525,457120,462298,463409,464157,467262,474833,484738,493943,498220
+Algeria,DZA,"Age population, age 00, male, interpolated",SP.POP.AG00.MA.IN,465094,477212,482793,484191,485144,488410,496157,506198,515450,519630
+Algeria,DZA,"Age population, age 01, female, interpolated",SP.POP.AG01.FE.IN,405182,438931,435281,446543,456624,466410,469883,487171,495062,498788
+Algeria,DZA,"Age population, age 01, male, interpolated",SP.POP.AG01.MA.IN,422629,457923,454136,466113,476831,487133,490987,508616,516657,520375
+Algeria,DZA,"Age population, age 02, female, interpolated",SP.POP.AG02.FE.IN,371203,402754,433171,428290,445190,460044,467103,472155,491760,495898
+Algeria,DZA,"Age population, age 02, male, interpolated",SP.POP.AG02.MA.IN,386940,419873,451756,446709,464542,480169,487759,493184,513206,517445
+Algeria,DZA,"Age population, age 03, female, interpolated",SP.POP.AG03.FE.IN,343195,371417,401087,427775,430580,449024,459542,467448,474164,489903
+Algeria,DZA,"Age population, age 03, male, interpolated",SP.POP.AG03.MA.IN,357594,386986,418029,446044,449025,468410,479589,488006,495093,511215
+Algeria,DZA,"Age population, age 04, female, interpolated",SP.POP.AG04.FE.IN,320764,344777,372329,399760,422258,434208,447934,458694,467531,476158
+Algeria,DZA,"Age population, age 04, male, interpolated",SP.POP.AG04.MA.IN,334158,359096,387867,416609,440218,452746,467243,478635,487968,496984
+Algeria,DZA,"Age population, age 05, female, interpolated",SP.POP.AG05.FE.IN,303516,322689,347003,373558,398326,416456,433017,446508,457592,467603
+Algeria,DZA,"Age population, age 05, male, interpolated",SP.POP.AG05.MA.IN,316202,336035,361370,389146,415092,434071,451487,465711,477402,487914
+Algeria,DZA,"Age population, age 06, female, interpolated",SP.POP.AG06.FE.IN,291058,304763,325217,349527,374692,396627,415650,431500,444833,456478
+Algeria,DZA,"Age population, age 06, male, interpolated",SP.POP.AG06.MA.IN,303291,317369,338633,364016,390338,413275,433213,449874,463908,476154
+Algeria,DZA,"Age population, age 07, female, interpolated",SP.POP.AG07.FE.IN,282996,290607,306580,328025,351964,375578,396694,414532,429743,443148
+Algeria,DZA,"Age population, age 07, male, interpolated",SP.POP.AG07.MA.IN,294995,302663,319219,341581,366583,391251,413316,432017,447999,462091
+Algeria,DZA,"Age population, age 08, female, interpolated",SP.POP.AG08.FE.IN,278937,281323,290703,308661,330751,354170,376262,396463,413182,427976
+Algeria,DZA,"Age population, age 08, male, interpolated",SP.POP.AG08.MA.IN,290880,293088,302689,321398,344455,368891,391926,413034,430569,446111
+Algeria,DZA,"Age population, age 09, female, interpolated",SP.POP.AG09.FE.IN,278487,277264,280179,291046,310664,333260,354841,376664,396012,411824
+Algeria,DZA,"Age population, age 09, male, interpolated",SP.POP.AG09.MA.IN,290514,289013,291818,303024,323506,347086,369556,392296,412512,429108
+Algeria,DZA,"Age population, age 10, female, interpolated",SP.POP.AG10.FE.IN,280909,277542,276114,279274,291313,312462,333542,355248,376856,395551
+Algeria,DZA,"Age population, age 10, male, interpolated",SP.POP.AG10.MA.IN,293148,289467,287774,290844,303291,325385,347352,369933,392437,411976
+American Samoa,ASM,Age dependency ratio (% of working-age population),SP.POP.DPND,..,..,..,..,..,..,..,..,..,..
+American Samoa,ASM,"Age dependency ratio, old",SP.POP.DPND.OL,..,..,..,..,..,..,..,..,..,..
+American Samoa,ASM,"Age dependency ratio, young",SP.POP.DPND.YG,..,..,..,..,..,..,..,..,..,..
+American Samoa,ASM,"Age population, age 00, female, interpolated",SP.POP.AG00.FE.IN,..,..,..,..,..,..,..,..,..,..
+American Samoa,ASM,"Age population, age 00, male, interpolated",SP.POP.AG00.MA.IN,..,..,..,..,..,..,..,..,..,..
+American Samoa,ASM,"Age population, age 01, female, interpolated",SP.POP.AG01.FE.IN,..,..,..,..,..,..,..,..,..,..
+American Samoa,ASM,"Age population, age 01, male, interpolated",SP.POP.AG01.MA.IN,..,..,..,..,..,..,..,..,..,..
+American Samoa,ASM,"Age population, age 02, female, interpolated",SP.POP.AG02.FE.IN,..,..,..,..,..,..,..,..,..,..
+American Samoa,ASM,"Age population, age 02, male, interpolated",SP.POP.AG02.MA.IN,..,..,..,..,..,..,..,..,..,..
+American Samoa,ASM,"Age population, age 03, female, interpolated",SP.POP.AG03.FE.IN,..,..,..,..,..,..,..,..,..,..
+American Samoa,ASM,"Age population, age 03, male, interpolated",SP.POP.AG03.MA.IN,..,..,..,..,..,..,..,..,..,..
+American Samoa,ASM,"Age population, age 04, female, interpolated",SP.POP.AG04.FE.IN,..,..,..,..,..,..,..,..,..,..
+American Samoa,ASM,"Age population, age 04, male, interpolated",SP.POP.AG04.MA.IN,..,..,..,..,..,..,..,..,..,..
+American Samoa,ASM,"Age population, age 05, female, interpolated",SP.POP.AG05.FE.IN,..,..,..,..,..,..,..,..,..,..
+American Samoa,ASM,"Age population, age 05, male, interpolated",SP.POP.AG05.MA.IN,..,..,..,..,..,..,..,..,..,..
+American Samoa,ASM,"Age population, age 06, female, interpolated",SP.POP.AG06.FE.IN,..,..,..,..,..,..,..,..,..,..
+American Samoa,ASM,"Age population, age 06, male, interpolated",SP.POP.AG06.MA.IN,..,..,..,..,..,..,..,..,..,..
+American Samoa,ASM,"Age population, age 07, female, interpolated",SP.POP.AG07.FE.IN,..,..,..,..,..,..,..,..,..,..
+American Samoa,ASM,"Age population, age 07, male, interpolated",SP.POP.AG07.MA.IN,..,..,..,..,..,..,..,..,..,..
+American Samoa,ASM,"Age population, age 08, female, interpolated",SP.POP.AG08.FE.IN,..,..,..,..,..,..,..,..,..,..
+American Samoa,ASM,"Age population, age 08, male, interpolated",SP.POP.AG08.MA.IN,..,..,..,..,..,..,..,..,..,..
+American Samoa,ASM,"Age population, age 09, female, interpolated",SP.POP.AG09.FE.IN,..,..,..,..,..,..,..,..,..,..
+American Samoa,ASM,"Age population, age 09, male, interpolated",SP.POP.AG09.MA.IN,..,..,..,..,..,..,..,..,..,..
+American Samoa,ASM,"Age population, age 10, female, interpolated",SP.POP.AG10.FE.IN,..,..,..,..,..,..,..,..,..,..
+American Samoa,ASM,"Age population, age 10, male, interpolated",SP.POP.AG10.MA.IN,..,..,..,..,..,..,..,..,..,..
+Andorra,AND,Age dependency ratio (% of working-age population),SP.POP.DPND,..,..,..,..,..,..,..,..,..,..
+Andorra,AND,"Age dependency ratio, old",SP.POP.DPND.OL,..,..,..,..,..,..,..,..,..,..
+Andorra,AND,"Age dependency ratio, young",SP.POP.DPND.YG,..,..,..,..,..,..,..,..,..,..
+Andorra,AND,"Age population, age 00, female, interpolated",SP.POP.AG00.FE.IN,..,..,..,..,..,..,..,..,..,..
+Andorra,AND,"Age population, age 00, male, interpolated",SP.POP.AG00.MA.IN,..,..,..,..,..,..,..,..,..,..
+Andorra,AND,"Age population, age 01, female, interpolated",SP.POP.AG01.FE.IN,..,..,..,..,..,..,..,..,..,..
+Andorra,AND,"Age population, age 01, male, interpolated",SP.POP.AG01.MA.IN,..,..,..,..,..,..,..,..,..,..
+Andorra,AND,"Age population, age 02, female, interpolated",SP.POP.AG02.FE.IN,..,..,..,..,..,..,..,..,..,..
+Andorra,AND,"Age population, age 02, male, interpolated",SP.POP.AG02.MA.IN,..,..,..,..,..,..,..,..,..,..
+Andorra,AND,"Age population, age 03, female, interpolated",SP.POP.AG03.FE.IN,..,..,..,..,..,..,..,..,..,..
+Andorra,AND,"Age population, age 03, male, interpolated",SP.POP.AG03.MA.IN,..,..,..,..,..,..,..,..,..,..
+Andorra,AND,"Age population, age 04, female, interpolated",SP.POP.AG04.FE.IN,..,..,..,..,..,..,..,..,..,..
+Andorra,AND,"Age population, age 04, male, interpolated",SP.POP.AG04.MA.IN,..,..,..,..,..,..,..,..,..,..
+Andorra,AND,"Age population, age 05, female, interpolated",SP.POP.AG05.FE.IN,..,..,..,..,..,..,..,..,..,..
+Andorra,AND,"Age population, age 05, male, interpolated",SP.POP.AG05.MA.IN,..,..,..,..,..,..,..,..,..,..
+Andorra,AND,"Age population, age 06, female, interpolated",SP.POP.AG06.FE.IN,..,..,..,..,..,..,..,..,..,..
+Andorra,AND,"Age population, age 06, male, interpolated",SP.POP.AG06.MA.IN,..,..,..,..,..,..,..,..,..,..
+Andorra,AND,"Age population, age 07, female, interpolated",SP.POP.AG07.FE.IN,..,..,..,..,..,..,..,..,..,..
+Andorra,AND,"Age population, age 07, male, interpolated",SP.POP.AG07.MA.IN,..,..,..,..,..,..,..,..,..,..
+Andorra,AND,"Age population, age 08, female, interpolated",SP.POP.AG08.FE.IN,..,..,..,..,..,..,..,..,..,..
+Andorra,AND,"Age population, age 08, male, interpolated",SP.POP.AG08.MA.IN,..,..,..,..,..,..,..,..,..,..
+Andorra,AND,"Age population, age 09, female, interpolated",SP.POP.AG09.FE.IN,..,..,..,..,..,..,..,..,..,..
+Andorra,AND,"Age population, age 09, male, interpolated",SP.POP.AG09.MA.IN,..,..,..,..,..,..,..,..,..,..
+Andorra,AND,"Age population, age 10, female, interpolated",SP.POP.AG10.FE.IN,..,..,..,..,..,..,..,..,..,..
+Andorra,AND,"Age population, age 10, male, interpolated",SP.POP.AG10.MA.IN,..,..,..,..,..,..,..,..,..,..
+Angola,AGO,Age dependency ratio (% of working-age population),SP.POP.DPND,97.6377143213992,97.9882992271964,98.1454472706984,98.1304781263351,97.9422055741664,97.5692386262848,97.2945881228216,96.8202278267608,96.1757404434103,95.3940418170685
+Angola,AGO,"Age dependency ratio, old",SP.POP.DPND.OL,4.66574437832991,4.6476362215512,4.62868342373987,4.60214018672371,4.5586959070841,4.49640300513132,4.46086782715692,4.40719429304328,4.34798471638409,4.29738273872188
+Angola,AGO,"Age dependency ratio, young",SP.POP.DPND.YG,92.9719699430693,93.3406630056452,93.5167638469585,93.5283379396114,93.3835096670823,93.0728356211535,92.8337202956647,92.4130335337176,91.8277557270262,91.0966590783467
+Angola,AGO,"Age population, age 00, female, interpolated",SP.POP.AG00.FE.IN,489162,501358,512066,521732,531113,540869,551479,562521,574312,587191
+Angola,AGO,"Age population, age 00, male, interpolated",SP.POP.AG00.MA.IN,490273,504943,518997,532224,544493,555841,566222,575854,585607,596646
+Angola,AGO,"Age population, age 01, female, interpolated",SP.POP.AG01.FE.IN,467388,485572,494235,506384,517958,529238,539655,551709,562968,574855
+Angola,AGO,"Age population, age 01, male, interpolated",SP.POP.AG01.MA.IN,467108,486418,498242,513107,527084,540054,553467,563083,573926,585333
+Angola,AGO,"Age population, age 02, female, interpolated",SP.POP.AG02.FE.IN,446725,464947,482233,490508,503818,516375,527674,538328,550912,562233
+Angola,AGO,"Age population, age 02, male, interpolated",SP.POP.AG02.MA.IN,445301,464369,482811,494103,509383,523649,537878,551147,561149,573033
+Angola,AGO,"Age population, age 03, female, interpolated",SP.POP.AG03.FE.IN,427144,445137,462747,478963,488855,502451,514689,526000,536937,549330
+Angola,AGO,"Age population, age 03, male, interpolated",SP.POP.AG03.MA.IN,424801,443408,461867,479271,491494,506752,521711,535756,548833,559843
+Angola,AGO,"Age population, age 04, female, interpolated",SP.POP.AG04.FE.IN,408616,426154,443780,460613,475605,487641,500827,512895,524263,535538
+Angola,AGO,"Age population, age 04, male, interpolated",SP.POP.AG04.MA.IN,405558,423518,441740,459430,475673,489488,505076,519825,533639,546469
+Angola,AGO,"Age population, age 05, female, interpolated",SP.POP.AG05.FE.IN,391113,408008,425384,442487,458396,472117,486218,499098,511040,522519
+Angola,AGO,"Age population, age 05, male, interpolated",SP.POP.AG05.MA.IN,387519,404683,422449,440135,456937,471979,488083,503450,517944,531473
+Angola,AGO,"Age population, age 06, female, interpolated",SP.POP.AG06.FE.IN,374605,390681,407612,424677,441114,456052,471040,484692,497309,509179
+Angola,AGO,"Age population, age 06, male, interpolated",SP.POP.AG06.MA.IN,370634,386861,404013,421440,438476,454352,470864,486727,501829,516015
+Angola,AGO,"Age population, age 07, female, interpolated",SP.POP.AG07.FE.IN,359064,374151,390451,407274,423892,439619,455473,469863,483108,495514
+Angola,AGO,"Age population, age 07, male, interpolated",SP.POP.AG07.MA.IN,354851,370010,386399,403400,420381,436730,453550,469795,485376,500162
+Angola,AGO,"Age population, age 08, female, interpolated",SP.POP.AG08.FE.IN,344461,358588,373891,390278,406863,422991,439390,454798,468631,481519
+Angola,AGO,"Age population, age 08, male, interpolated",SP.POP.AG08.MA.IN,340119,354244,369574,385992,402740,419237,436144,452793,468731,483980
+Angola,AGO,"Age population, age 09, female, interpolated",SP.POP.AG09.FE.IN,330767,344066,358298,373685,390034,406341,422818,439069,454068,467392
+Angola,AGO,"Age population, age 09, male, interpolated",SP.POP.AG09.MA.IN,326386,339598,353817,369191,385539,401998,418714,435602,452041,467624
+Angola,AGO,"Age population, age 10, female, interpolated",SP.POP.AG10.FE.IN,317879,330502,343849,358060,373413,389684,406039,422557,438695,453333
+Angola,AGO,"Age population, age 10, male, interpolated",SP.POP.AG10.MA.IN,313543,325978,339249,353440,368763,385008,401433,418232,435064,451247
+Antigua and Barbuda,ATG,Age dependency ratio (% of working-age population),SP.POP.DPND,46.408316008316,46.0124004122564,45.5158538548205,45.0194910151174,44.6213458744121,44.3652410047522,44.4417279158963,44.5235354698007,44.6778458949393,44.9479120026268
+Antigua and Barbuda,ATG,"Age dependency ratio, old",SP.POP.DPND.OL,10.7725571725572,10.9149802869436,11.0864316755191,11.2889424143505,11.5135228036186,11.775597111646,12.0761578778479,12.3932271157691,12.7313980045679,13.1249813438405
+Antigua and Barbuda,ATG,"Age dependency ratio, young",SP.POP.DPND.YG,35.6357588357588,35.0974201253129,34.4294221793015,33.730548600767,33.1078230707936,32.5896438931062,32.3655700380484,32.1303083540316,31.9464478903714,31.8229306587863
+Antigua and Barbuda,ATG,"Age population, age 00, female, interpolated",SP.POP.AG00.FE.IN,751,754,756,756,754,749,744,736,728,718
+Antigua and Barbuda,ATG,"Age population, age 00, male, interpolated",SP.POP.AG00.MA.IN,773,777,780,782,780,776,769,760,749,737
+Antigua and Barbuda,ATG,"Age population, age 01, female, interpolated",SP.POP.AG01.FE.IN,706,736,715,720,724,727,745,730,729,726
+Antigua and Barbuda,ATG,"Age population, age 01, male, interpolated",SP.POP.AG01.MA.IN,728,758,737,743,748,751,771,752,750,747
+Antigua and Barbuda,ATG,"Age population, age 02, female, interpolated",SP.POP.AG02.FE.IN,675,699,722,693,702,709,726,741,727,730
+Antigua and Barbuda,ATG,"Age population, age 02, male, interpolated",SP.POP.AG02.MA.IN,697,721,742,715,723,730,750,766,749,752
+Antigua and Barbuda,ATG,"Age population, age 03, female, interpolated",SP.POP.AG03.FE.IN,656,674,693,707,685,695,710,725,737,730
+Antigua and Barbuda,ATG,"Age population, age 03, male, interpolated",SP.POP.AG03.MA.IN,677,695,713,727,705,714,732,749,761,752
+Antigua and Barbuda,ATG,"Age population, age 04, female, interpolated",SP.POP.AG04.FE.IN,648,659,674,687,693,685,697,711,724,732
+Antigua and Barbuda,ATG,"Age population, age 04, male, interpolated",SP.POP.AG04.MA.IN,668,680,694,706,711,702,717,733,747,756
+Antigua and Barbuda,ATG,"Age population, age 05, female, interpolated",SP.POP.AG05.FE.IN,649,654,663,674,680,677,687,699,712,723
+Antigua and Barbuda,ATG,"Age population, age 05, male, interpolated",SP.POP.AG05.MA.IN,668,673,682,692,698,694,705,719,734,746
+Antigua and Barbuda,ATG,"Age population, age 06, female, interpolated",SP.POP.AG06.FE.IN,657,655,660,667,673,673,679,689,701,713
+Antigua and Barbuda,ATG,"Age population, age 06, male, interpolated",SP.POP.AG06.MA.IN,674,674,678,685,690,689,696,708,721,734
+Antigua and Barbuda,ATG,"Age population, age 07, female, interpolated",SP.POP.AG07.FE.IN,671,663,662,666,670,672,674,681,691,702
+Antigua and Barbuda,ATG,"Age population, age 07, male, interpolated",SP.POP.AG07.MA.IN,686,680,680,683,686,687,689,698,710,723
+Antigua and Barbuda,ATG,"Age population, age 08, female, interpolated",SP.POP.AG08.FE.IN,688,676,669,669,671,673,671,674,682,693
+Antigua and Barbuda,ATG,"Age population, age 08, male, interpolated",SP.POP.AG08.MA.IN,702,691,686,686,687,688,686,690,700,712
+Antigua and Barbuda,ATG,"Age population, age 09, female, interpolated",SP.POP.AG09.FE.IN,708,692,681,676,675,677,672,671,674,683
+Antigua and Barbuda,ATG,"Age population, age 09, male, interpolated",SP.POP.AG09.MA.IN,720,707,697,691,691,691,687,686,690,701
+Antigua and Barbuda,ATG,"Age population, age 10, female, interpolated",SP.POP.AG10.FE.IN,731,711,697,686,681,681,676,672,670,674
+Antigua and Barbuda,ATG,"Age population, age 10, male, interpolated",SP.POP.AG10.MA.IN,740,724,711,701,697,696,691,687,685,690
+Arab World,ARB,Age dependency ratio (% of working-age population),SP.POP.DPND,63.2016235695226,62.5723283211832,62.0893293511709,61.7307653195897,61.4465298447854,61.195307253378,61.2836148998343,61.2539512715361,61.1654735231031,61.0818006488923
+Arab World,ARB,"Age dependency ratio, old",SP.POP.DPND.OL,6.66162529149746,6.66872801443877,6.68688277915121,6.720702557091,6.7764961668418,6.8581874310854,6.98148206660518,7.12144635588645,7.27378445327759,7.43200320011483
+Arab World,ARB,"Age dependency ratio, young",SP.POP.DPND.YG,54.5177314053355,53.9191352407309,53.4683400565992,53.1362545213852,52.8617950507743,52.5957120528749,52.6113490351042,52.4964225492615,52.3133627818897,52.1270874321548
+Arab World,ARB,"Age population, age 00, female, interpolated",SP.POP.AG00.FE.IN,..,..,..,..,..,..,..,..,..,..
+Arab World,ARB,"Age population, age 00, male, interpolated",SP.POP.AG00.MA.IN,..,..,..,..,..,..,..,..,..,..
+Arab World,ARB,"Age population, age 01, female, interpolated",SP.POP.AG01.FE.IN,..,..,..,..,..,..,..,..,..,..
+Arab World,ARB,"Age population, age 01, male, interpolated",SP.POP.AG01.MA.IN,..,..,..,..,..,..,..,..,..,..
+Arab World,ARB,"Age population, age 02, female, interpolated",SP.POP.AG02.FE.IN,..,..,..,..,..,..,..,..,..,..
+Arab World,ARB,"Age population, age 02, male, interpolated",SP.POP.AG02.MA.IN,..,..,..,..,..,..,..,..,..,..
+Arab World,ARB,"Age population, age 03, female, interpolated",SP.POP.AG03.FE.IN,..,..,..,..,..,..,..,..,..,..
+Arab World,ARB,"Age population, age 03, male, interpolated",SP.POP.AG03.MA.IN,..,..,..,..,..,..,..,..,..,..
+Arab World,ARB,"Age population, age 04, female, interpolated",SP.POP.AG04.FE.IN,..,..,..,..,..,..,..,..,..,..
+Arab World,ARB,"Age population, age 04, male, interpolated",SP.POP.AG04.MA.IN,..,..,..,..,..,..,..,..,..,..
+Arab World,ARB,"Age population, age 05, female, interpolated",SP.POP.AG05.FE.IN,..,..,..,..,..,..,..,..,..,..
+Arab World,ARB,"Age population, age 05, male, interpolated",SP.POP.AG05.MA.IN,..,..,..,..,..,..,..,..,..,..
+Arab World,ARB,"Age population, age 06, female, interpolated",SP.POP.AG06.FE.IN,..,..,..,..,..,..,..,..,..,..
+Arab World,ARB,"Age population, age 06, male, interpolated",SP.POP.AG06.MA.IN,..,..,..,..,..,..,..,..,..,..
+Arab World,ARB,"Age population, age 07, female, interpolated",SP.POP.AG07.FE.IN,..,..,..,..,..,..,..,..,..,..
+Arab World,ARB,"Age population, age 07, male, interpolated",SP.POP.AG07.MA.IN,..,..,..,..,..,..,..,..,..,..
+Arab World,ARB,"Age population, age 08, female, interpolated",SP.POP.AG08.FE.IN,..,..,..,..,..,..,..,..,..,..
+Arab World,ARB,"Age population, age 08, male, interpolated",SP.POP.AG08.MA.IN,..,..,..,..,..,..,..,..,..,..
+Arab World,ARB,"Age population, age 09, female, interpolated",SP.POP.AG09.FE.IN,..,..,..,..,..,..,..,..,..,..
+Arab World,ARB,"Age population, age 09, male, interpolated",SP.POP.AG09.MA.IN,..,..,..,..,..,..,..,..,..,..
+Arab World,ARB,"Age population, age 10, female, interpolated",SP.POP.AG10.FE.IN,..,..,..,..,..,..,..,..,..,..
+Arab World,ARB,"Age population, age 10, male, interpolated",SP.POP.AG10.MA.IN,..,..,..,..,..,..,..,..,..,..
+Argentina,ARG,Age dependency ratio (% of working-age population),SP.POP.DPND,56.815969153871,56.5417481310706,56.3791879629017,56.292266803898,56.2122404103433,56.103604348639,56.1022705830781,56.0463554436975,55.9544729116194,55.8570334548352
+Argentina,ARG,"Age dependency ratio, old",SP.POP.DPND.OL,15.9874273343408,16.1191166083128,16.2650232438894,16.4221640499902,16.5841170304419,16.7480675051988,16.9526709001933,17.1490383896585,17.3386897637727,17.5231748606151
+Argentina,ARG,"Age dependency ratio, young",SP.POP.DPND.YG,40.8285418195302,40.4226315227578,40.1141647190122,39.8701027539078,39.6281233799014,39.3555368434402,39.1495996828848,38.8973170540391,38.6157831478467,38.3338585942201
+Argentina,ARG,"Age population, age 00, female, interpolated",SP.POP.AG00.FE.IN,354424,356608,360503,365123,369052,371270,371511,370164,367796,365277
+Argentina,ARG,"Age population, age 00, male, interpolated",SP.POP.AG00.MA.IN,368095,370417,374450,379197,383233,385531,385770,384388,381971,379410
+Argentina,ARG,"Age population, age 01, female, interpolated",SP.POP.AG01.FE.IN,354659,354918,359654,362810,365574,367444,370533,368375,367787,366879
+Argentina,ARG,"Age population, age 01, male, interpolated",SP.POP.AG01.MA.IN,368081,368514,373311,376589,379466,381438,384696,382423,381843,380945
+Argentina,ARG,"Age population, age 02, female, interpolated",SP.POP.AG02.FE.IN,354385,354744,355375,360563,362478,364108,367215,369832,367338,367669
+Argentina,ARG,"Age population, age 02, male, interpolated",SP.POP.AG02.MA.IN,367614,368120,368894,374104,376136,377881,381148,383904,381284,381664
+Argentina,ARG,"Age population, age 03, female, interpolated",SP.POP.AG03.FE.IN,353689,354217,354792,355794,359739,361219,364198,367020,369125,367740
+Argentina,ARG,"Age population, age 03, male, interpolated",SP.POP.AG03.MA.IN,366770,367420,368120,369237,373208,374810,377936,380900,383117,381663
+Argentina,ARG,"Age population, age 04, female, interpolated",SP.POP.AG04.FE.IN,352659,353399,354013,354802,356204,358732,361472,364323,366820,368356
+Argentina,ARG,"Age population, age 04, male, interpolated",SP.POP.AG04.MA.IN,365627,366467,367188,368083,369579,372174,375043,378034,380658,382279
+Argentina,ARG,"Age population, age 05, female, interpolated",SP.POP.AG05.FE.IN,351383,352351,353072,353770,354803,356606,359023,361758,364442,366559
+Argentina,ARG,"Age population, age 05, male, interpolated",SP.POP.AG05.MA.IN,364261,365311,366125,366919,368045,369925,372452,375319,378136,380365
+Argentina,ARG,"Age population, age 06, female, interpolated",SP.POP.AG06.FE.IN,349947,351160,352005,352707,353518,354796,356808,359346,362040,364500
+Argentina,ARG,"Age population, age 06, male, interpolated",SP.POP.AG06.MA.IN,362750,364029,364956,365747,366650,368012,370112,372771,375600,378189
+Argentina,ARG,"Age population, age 07, female, interpolated",SP.POP.AG07.FE.IN,348439,349913,350900,351622,352333,353258,354784,357043,359665,362262
+Argentina,ARG,"Age population, age 07, male, interpolated",SP.POP.AG07.MA.IN,361171,362699,363759,364566,365368,366384,367972,370340,373096,375831
+Argentina,ARG,"Age population, age 08, female, interpolated",SP.POP.AG08.FE.IN,346947,348542,349843,350602,351230,351951,353095,354805,357274,359924
+Argentina,ARG,"Age population, age 08, male, interpolated",SP.POP.AG08.MA.IN,359601,361246,362609,363453,364175,364993,366179,367974,370573,373371
+Argentina,ARG,"Age population, age 09, female, interpolated",SP.POP.AG09.FE.IN,345558,347055,348609,349735,350296,350829,351791,352964,354822,357444
+Argentina,ARG,"Age population, age 09, male, interpolated",SP.POP.AG09.MA.IN,358117,359672,361283,362484,363146,363787,364781,366016,367981,370758
+Argentina,ARG,"Age population, age 10, female, interpolated",SP.POP.AG10.FE.IN,343999,345593,347128,348638,349619,349981,350765,351663,352829,354779
+Argentina,ARG,"Age population, age 10, male, interpolated",SP.POP.AG10.MA.IN,356422,358104,359705,361284,362358,362843,363662,364611,365858,367940
+Armenia,ARM,Age dependency ratio (% of working-age population),SP.POP.DPND,43.7908192969174,43.4816830705323,43.5139006857171,43.839385085219,44.3148939417439,44.838175789912,45.4311576705425,46.0942674249178,46.8153268581115,47.600647545704
+Armenia,ARM,"Age dependency ratio, old",SP.POP.DPND.OL,15.8081402467211,15.5890926431007,15.5156362500068,15.5532654441046,15.6427689759966,15.7546226824703,15.966467303144,16.2115621888474,16.5223104684522,16.9499679121542
+Armenia,ARM,"Age dependency ratio, young",SP.POP.DPND.YG,27.9826790501963,27.8925904274316,27.9982644357102,28.2861196411144,28.6721249657473,29.0835531074417,29.4646903673985,29.8827052360704,30.2930163896593,30.6506796335498
+Armenia,ARM,"Age population, age 00, female, interpolated",SP.POP.AG00.FE.IN,20123,19964,19903,19892,19864,19771,19619,19418,19165,18852
+Armenia,ARM,"Age population, age 00, male, interpolated",SP.POP.AG00.MA.IN,23231,23046,22940,22856,22717,22477,22156,21751,21280,20771
+Armenia,ARM,"Age population, age 01, female, interpolated",SP.POP.AG01.FE.IN,19420,19972,19807,20002,20137,20181,19873,19986,19754,19449
+Armenia,ARM,"Age population, age 01, male, interpolated",SP.POP.AG01.MA.IN,22247,22955,22591,22790,22905,22883,22565,22451,22055,21587
+Armenia,ARM,"Age population, age 02, female, interpolated",SP.POP.AG02.FE.IN,18718,19313,19871,19889,20167,20339,20202,19964,20144,19879
+Armenia,ARM,"Age population, age 02, male, interpolated",SP.POP.AG02.MA.IN,21366,22073,22771,22561,22878,23040,22906,22633,22594,22198
+Armenia,ARM,"Age population, age 03, female, interpolated",SP.POP.AG03.FE.IN,18041,18641,19255,19799,19993,20281,20311,20212,20048,20156
+Armenia,ARM,"Age population, age 03, male, interpolated",SP.POP.AG03.MA.IN,20592,21258,21987,22638,22671,22983,23024,22909,22687,22619
+Armenia,ARM,"Age population, age 04, female, interpolated",SP.POP.AG04.FE.IN,17413,17980,18610,19224,19733,20042,20229,20272,20215,20131
+Armenia,ARM,"Age population, age 04, male, interpolated",SP.POP.AG04.MA.IN,19932,20520,21234,21951,22511,22746,22949,22987,22897,22738
+Armenia,ARM,"Age population, age 05, female, interpolated",SP.POP.AG05.FE.IN,16856,17358,17964,18605,19199,19659,19988,20167,20225,20217
+Armenia,ARM,"Age population, age 05, male, interpolated",SP.POP.AG05.MA.IN,19391,19871,20530,21259,21921,22364,22710,22894,22937,22883
+Armenia,ARM,"Age population, age 06, female, interpolated",SP.POP.AG06.FE.IN,16395,16797,17347,17974,18606,19166,19622,19922,20097,20178
+Armenia,ARM,"Age population, age 06, male, interpolated",SP.POP.AG06.MA.IN,18973,19315,19890,20586,21290,21871,22343,22654,22826,22884
+Armenia,ARM,"Age population, age 07, female, interpolated",SP.POP.AG07.FE.IN,16054,16323,16781,17360,17989,18601,19168,19574,19850,20026
+Armenia,ARM,"Age population, age 07, male, interpolated",SP.POP.AG07.MA.IN,18684,18855,19317,19953,20648,21302,21883,22302,22584,22755
+Armenia,ARM,"Age population, age 08, female, interpolated",SP.POP.AG08.FE.IN,15856,15971,16291,16789,17379,17997,18628,19159,19520,19776
+Armenia,ARM,"Age population, age 08, male, interpolated",SP.POP.AG08.MA.IN,18530,18540,18813,19362,20023,20691,21332,21875,22248,22512
+Armenia,ARM,"Age population, age 09, female, interpolated",SP.POP.AG09.FE.IN,15824,15774,15929,16283,16801,17392,18019,18644,19144,19464
+Armenia,ARM,"Age population, age 09, male, interpolated",SP.POP.AG09.MA.IN,18516,18394,18470,18814,19414,20074,20711,21343,21854,22192
+Armenia,ARM,"Age population, age 10, female, interpolated",SP.POP.AG10.FE.IN,15883,15750,15732,15909,16279,16808,17389,18030,18655,19127
+Armenia,ARM,"Age population, age 10, male, interpolated",SP.POP.AG10.MA.IN,18587,18408,18332,18441,18820,19447,20064,20711,21342,21831
+Aruba,ABW,Age dependency ratio (% of working-age population),SP.POP.DPND,45.2684069898695,45.1682196457785,44.9549842409509,44.6992649946698,44.5481390684199,44.5927219312103,44.6390643532949,45.0403325716488,45.6736261165169,46.3674537068906
+Aruba,ABW,"Age dependency ratio, old",SP.POP.DPND.OL,14.9456327603698,15.3638238850558,15.8297174678106,16.3482578690456,16.9224983285046,17.5494027327402,18.2315946266516,18.9618148280704,19.7401560715121,20.5768568871756
+Aruba,ABW,"Age dependency ratio, young",SP.POP.DPND.YG,30.3227742294998,29.8043957607227,29.1252667731404,28.3510071256242,27.6256407399153,27.0433191984701,26.4074697266433,26.0785177435784,25.9334700450047,25.790596819715
+Aruba,ABW,"Age population, age 00, female, interpolated",SP.POP.AG00.FE.IN,653,625,580,530,493,481,502,547,604,653
+Aruba,ABW,"Age population, age 00, male, interpolated",SP.POP.AG00.MA.IN,669,642,599,551,516,506,528,575,633,684
+Aruba,ABW,"Age population, age 01, female, interpolated",SP.POP.AG01.FE.IN,648,646,597,562,534,521,492,548,577,604
+Aruba,ABW,"Age population, age 01, male, interpolated",SP.POP.AG01.MA.IN,673,665,623,587,559,545,517,574,604,632
+Aruba,ABW,"Age population, age 02, female, interpolated",SP.POP.AG02.FE.IN,647,646,642,590,570,556,526,503,560,570
+Aruba,ABW,"Age population, age 02, male, interpolated",SP.POP.AG02.MA.IN,679,672,662,618,595,580,549,527,585,595
+Aruba,ABW,"Age population, age 03, female, interpolated",SP.POP.AG03.FE.IN,651,648,645,638,599,585,556,529,512,549
+Aruba,ABW,"Age population, age 03, male, interpolated",SP.POP.AG03.MA.IN,686,679,671,660,626,609,579,552,536,573
+Aruba,ABW,"Age population, age 04, female, interpolated",SP.POP.AG04.FE.IN,658,654,651,647,635,610,584,555,532,522
+Aruba,ABW,"Age population, age 04, male, interpolated",SP.POP.AG04.MA.IN,695,687,681,672,658,634,607,578,554,545
+Aruba,ABW,"Age population, age 05, female, interpolated",SP.POP.AG05.FE.IN,667,661,658,655,648,631,608,581,554,535
+Aruba,ABW,"Age population, age 05, male, interpolated",SP.POP.AG05.MA.IN,704,696,690,683,673,655,631,603,576,557
+Aruba,ABW,"Age population, age 06, female, interpolated",SP.POP.AG06.FE.IN,679,670,666,664,659,648,631,605,577,553
+Aruba,ABW,"Age population, age 06, male, interpolated",SP.POP.AG06.MA.IN,713,704,698,693,685,673,654,627,599,574
+Aruba,ABW,"Age population, age 07, female, interpolated",SP.POP.AG07.FE.IN,691,679,674,672,669,662,651,629,602,574
+Aruba,ABW,"Age population, age 07, male, interpolated",SP.POP.AG07.MA.IN,723,713,707,702,696,687,675,651,623,595
+Aruba,ABW,"Age population, age 08, female, interpolated",SP.POP.AG08.FE.IN,703,690,682,680,678,674,668,653,627,598
+Aruba,ABW,"Age population, age 08, male, interpolated",SP.POP.AG08.MA.IN,732,722,714,710,706,699,691,675,648,618
+Aruba,ABW,"Age population, age 09, female, interpolated",SP.POP.AG09.FE.IN,715,703,692,686,686,684,680,672,655,625
+Aruba,ABW,"Age population, age 09, male, interpolated",SP.POP.AG09.MA.IN,741,731,722,717,713,709,703,694,675,645
+Aruba,ABW,"Age population, age 10, female, interpolated",SP.POP.AG10.FE.IN,726,715,704,695,691,690,688,684,676,656
+Aruba,ABW,"Age population, age 10, male, interpolated",SP.POP.AG10.MA.IN,748,740,731,724,719,716,711,706,696,675
+Australia,AUS,Age dependency ratio (% of working-age population),SP.POP.DPND,47.9484543670001,48.5137538612537,49.0671933560653,49.6405779919198,50.2597000603197,50.9250562135116,51.7299323519365,52.5996705957282,53.4850882364433,54.3130005917775
+Australia,AUS,"Age dependency ratio, old",SP.POP.DPND.OL,19.7904053210475,20.2428815519657,20.7654892983375,21.3277589811506,21.8858011005025,22.4193273846272,22.9736095153618,23.5064863290032,24.0303526189308,24.5684821384735
+Australia,AUS,"Age dependency ratio, young",SP.POP.DPND.YG,28.1580490459526,28.270872309288,28.3017040577278,28.3128190107692,28.3738989598172,28.5057288288844,28.7563228365747,29.093184266725,29.4547356175126,29.744518453304
+Australia,AUS,"Age population, age 00, female, interpolated",SP.POP.AG00.FE.IN,150415,151792,151076,149277,147894,147979,150725,154883,159460,163020
+Australia,AUS,"Age population, age 00, male, interpolated",SP.POP.AG00.MA.IN,159955,161388,160334,158002,156167,156077,158861,163322,168339,172289
+Australia,AUS,"Age population, age 01, female, interpolated",SP.POP.AG01.FE.IN,145551,151090,149348,149869,150385,151432,150753,156945,159893,162149
+Australia,AUS,"Age population, age 01, male, interpolated",SP.POP.AG01.MA.IN,153932,160530,157917,158274,158658,159722,158902,165501,168716,171213
+Australia,AUS,"Age population, age 02, female, interpolated",SP.POP.AG02.FE.IN,141514,146848,151739,149723,151665,153468,153448,153318,159953,161348
+Australia,AUS,"Age population, age 02, male, interpolated",SP.POP.AG02.MA.IN,149041,155356,160987,157879,159933,161900,161737,161561,168728,170251
+Australia,AUS,"Age population, age 03, female, interpolated",SP.POP.AG03.FE.IN,138250,143177,148122,152307,151907,154277,155016,155248,155722,160603
+Australia,AUS,"Age population, age 03, male, interpolated",SP.POP.AG03.MA.IN,145199,150989,156667,161316,160168,162806,163410,163581,164091,169382
+Australia,AUS,"Age population, age 04, female, interpolated",SP.POP.AG04.FE.IN,135705,140070,144818,149318,152728,154050,155601,156345,156885,158046
+Australia,AUS,"Age population, age 04, male, interpolated",SP.POP.AG04.MA.IN,142323,147404,152830,157853,161507,162634,164065,164745,165294,166556
+Australia,AUS,"Age population, age 05, female, interpolated",SP.POP.AG05.FE.IN,133824,137522,141869,146383,150370,152978,155348,156706,157510,158443
+Australia,AUS,"Age population, age 05, male, interpolated",SP.POP.AG05.MA.IN,140331,144572,149504,154549,158905,161580,163847,165149,165949,166943
+Australia,AUS,"Age population, age 06, female, interpolated",SP.POP.AG06.FE.IN,132553,135481,139319,143594,147807,151252,154445,156426,157646,158596
+Australia,AUS,"Age population, age 06, male, interpolated",SP.POP.AG06.MA.IN,139140,142424,146719,151486,156135,159838,162951,164886,166100,167089
+Australia,AUS,"Age population, age 07, female, interpolated",SP.POP.AG07.FE.IN,131836,133893,137117,141043,145180,149062,153080,155693,157340,158507
+Australia,AUS,"Age population, age 07, male, interpolated",SP.POP.AG07.MA.IN,138666,140887,144415,148749,153338,157604,161569,164149,165793,166988
+Australia,AUS,"Age population, age 08, female, interpolated",SP.POP.AG08.FE.IN,131621,132990,135212,138682,142631,146600,151171,154692,156778,158176
+Australia,AUS,"Age population, age 08, male, interpolated",SP.POP.AG08.MA.IN,138828,140154,142535,146292,150652,155073,159607,163129,165216,166636
+Australia,AUS,"Age population, age 09, female, interpolated",SP.POP.AG09.FE.IN,131851,132862,134122,136460,140113,144056,148771,153067,156143,157784
+Australia,AUS,"Age population, age 09, male, interpolated",SP.POP.AG09.MA.IN,139543,140282,141540,144068,148043,152440,157113,161441,164558,166219
+Australia,AUS,"Age population, age 10, female, interpolated",SP.POP.AG10.FE.IN,132535,133361,134082,135184,137576,141384,146159,150733,154804,157514
+Australia,AUS,"Age population, age 10, male, interpolated",SP.POP.AG10.MA.IN,140802,141114,141634,142814,145479,149682,154376,158987,163145,165924
+Austria,AUT,Age dependency ratio (% of working-age population),SP.POP.DPND,48.1811872667783,48.3132363176456,48.4584344997342,48.6484193417367,48.8842940580987,49.1656923872968,49.4317119622618,49.6725857002038,49.9239401221367,50.2346584357808
+Austria,AUT,"Age dependency ratio, old",SP.POP.DPND.OL,26.373860988558,26.7751421248366,27.1300241918825,27.4597926556682,27.781233869435,28.1035328457277,28.2562585573312,28.3727926117504,28.4878923188851,28.6581660137141
+Austria,AUT,"Age dependency ratio, young",SP.POP.DPND.YG,21.8073262782203,21.538094192809,21.3284103078517,21.1886266860685,21.1030601886637,21.0621595415692,21.1754534049306,21.2997930884534,21.4360478032517,21.5764924220667
+Austria,AUT,"Age population, age 00, female, interpolated",SP.POP.AG00.FE.IN,37562,37612,37912,38445,39170,40040,41126,42363,43559,44459
+Austria,AUT,"Age population, age 00, male, interpolated",SP.POP.AG00.MA.IN,39642,39719,40087,40711,41525,42463,43538,44738,45880,46727
+Austria,AUT,"Age population, age 01, female, interpolated",SP.POP.AG01.FE.IN,37827,37833,38132,38490,39013,39700,40446,41684,42756,43634
+Austria,AUT,"Age population, age 01, male, interpolated",SP.POP.AG01.MA.IN,39865,39941,40292,40752,41379,42158,42936,44172,45232,46081
+Austria,AUT,"Age population, age 02, female, interpolated",SP.POP.AG02.FE.IN,38080,38043,38114,38524,38885,39422,40091,40847,42059,42898
+Austria,AUT,"Age population, age 02, male, interpolated",SP.POP.AG02.MA.IN,40092,40103,40256,40765,41237,41881,42615,43418,44642,45479
+Austria,AUT,"Age population, age 03, female, interpolated",SP.POP.AG03.FE.IN,38334,38259,38270,38401,38795,39207,39802,40478,41228,42253
+Austria,AUT,"Age population, age 03, male, interpolated",SP.POP.AG03.MA.IN,40333,40282,40358,40588,41112,41641,42328,43080,43882,44927
+Austria,AUT,"Age population, age 04, female, interpolated",SP.POP.AG04.FE.IN,38601,38490,38449,38503,38691,39059,39582,40178,40845,41571
+Austria,AUT,"Age population, age 04, male, interpolated",SP.POP.AG04.MA.IN,40598,40488,40489,40629,40937,41445,42086,42785,43528,44295
+Austria,AUT,"Age population, age 05, female, interpolated",SP.POP.AG05.FE.IN,38895,38749,38658,38644,38738,38980,39433,39951,40535,41174
+Austria,AUT,"Age population, age 05, male, interpolated",SP.POP.AG05.MA.IN,40900,40731,40660,40713,40918,41303,41897,42541,43223,43925
+Austria,AUT,"Age population, age 06, female, interpolated",SP.POP.AG06.FE.IN,39227,39049,38908,38832,38842,38973,39357,39802,40302,40854
+Austria,AUT,"Age population, age 06, male, interpolated",SP.POP.AG06.MA.IN,41250,41024,40881,40849,40954,41223,41767,42357,42977,43611
+Austria,AUT,"Age population, age 07, female, interpolated",SP.POP.AG07.FE.IN,39610,39408,39215,39072,39008,39039,39356,39729,40152,40615
+Austria,AUT,"Age population, age 07, male, interpolated",SP.POP.AG07.MA.IN,41657,41379,41165,41047,41056,41212,41702,42239,42800,43364
+Austria,AUT,"Age population, age 08, female, interpolated",SP.POP.AG08.FE.IN,40057,39809,39600,39387,39239,39183,39443,39735,40083,40464
+Austria,AUT,"Age population, age 08, male, interpolated",SP.POP.AG08.MA.IN,42134,41797,41525,41322,41232,41279,41724,42190,42694,43193
+Austria,AUT,"Age population, age 09, female, interpolated",SP.POP.AG09.FE.IN,40580,40255,40020,39799,39562,39406,39624,39842,40095,40399
+Austria,AUT,"Age population, age 09, male, interpolated",SP.POP.AG09.MA.IN,42692,42285,41954,41688,41498,41432,41846,42245,42661,43099
+Austria,AUT,"Age population, age 10, female, interpolated",SP.POP.AG10.FE.IN,41120,40769,40464,40237,40000,39735,39898,40061,40222,40418
+Austria,AUT,"Age population, age 10, male, interpolated",SP.POP.AG10.MA.IN,43262,42859,42453,42128,41870,41690,42070,42422,42749,43082
+Azerbaijan,AZE,Age dependency ratio (% of working-age population),SP.POP.DPND,40.3186110609598,39.7110004866158,39.4582574903921,39.5168026701505,39.7541900260159,40.0764593805005,40.7912482081523,41.3974219952754,41.9743777479603,42.6295599669755
+Azerbaijan,AZE,"Age dependency ratio, old",SP.POP.DPND.OL,8.27638684301675,8.12928596939727,8.01395035044652,7.94781069405483,7.95078230918618,8.03552232847629,8.2159004255706,8.46926682654538,8.79557246844854,9.19445528278974
+Azerbaijan,AZE,"Age dependency ratio, young",SP.POP.DPND.YG,32.042224217943,31.5817145172185,31.4443071399456,31.5689919760957,31.8034077168297,32.0409370520242,32.5753477825817,32.92815516873,33.1788052795117,33.4351046841858
+Azerbaijan,AZE,"Age population, age 00, female, interpolated",SP.POP.AG00.FE.IN,71645,75272,79726,84077,87097,87953,86223,82444,77433,72411
+Azerbaijan,AZE,"Age population, age 00, male, interpolated",SP.POP.AG00.MA.IN,82648,87062,92409,97529,100900,101507,98659,93198,86267,79572
+Azerbaijan,AZE,"Age population, age 01, female, interpolated",SP.POP.AG01.FE.IN,67579,71329,75067,79060,82208,83952,87087,82730,80447,77714
+Azerbaijan,AZE,"Age population, age 01, male, interpolated",SP.POP.AG01.MA.IN,78151,82275,86853,91456,94962,96680,100275,93893,90477,86670
+Azerbaijan,AZE,"Age population, age 02, female, interpolated",SP.POP.AG02.FE.IN,64304,67502,70983,74576,77728,80099,83662,86314,82049,81186
+Azerbaijan,AZE,"Age population, age 02, male, interpolated",SP.POP.AG02.MA.IN,74547,78043,81847,86135,89632,92137,96228,99218,92958,91500
+Azerbaijan,AZE,"Age population, age 03, female, interpolated",SP.POP.AG03.FE.IN,61788,64379,67398,70603,73676,76436,80174,83462,85571,83038
+Azerbaijan,AZE,"Age population, age 03, male, interpolated",SP.POP.AG03.MA.IN,71784,74609,77883,81371,84903,87904,92179,95943,98228,94318
+Azerbaijan,AZE,"Age population, age 04, female, interpolated",SP.POP.AG04.FE.IN,59998,61941,64428,67260,70214,73001,76697,80334,83292,84784
+Azerbaijan,AZE,"Age population, age 04, male, interpolated",SP.POP.AG04.MA.IN,69805,71934,74621,77679,80901,84006,88200,92380,95724,97174
+Azerbaijan,AZE,"Age population, age 05, female, interpolated",SP.POP.AG05.FE.IN,58899,60170,62069,64445,67115,69836,73308,77041,80523,83079
+Azerbaijan,AZE,"Age population, age 05, male, interpolated",SP.POP.AG05.MA.IN,68557,69980,72037,74590,77478,80467,84365,88649,92645,95443
+Azerbaijan,AZE,"Age population, age 06, female, interpolated",SP.POP.AG06.FE.IN,58460,59032,60318,62167,64454,66980,70046,73693,77412,80672
+Azerbaijan,AZE,"Age population, age 06, male, interpolated",SP.POP.AG06.MA.IN,67985,68692,70109,72098,74562,77313,80697,84869,89159,92851
+Azerbaijan,AZE,"Age population, age 07, female, interpolated",SP.POP.AG07.FE.IN,58646,58495,59142,60437,62257,64473,66951,70330,74105,77745
+Azerbaijan,AZE,"Age population, age 07, male, interpolated",SP.POP.AG07.MA.IN,68035,68016,68782,70197,72163,74569,77223,81067,85433,89613
+Azerbaijan,AZE,"Age population, age 08, female, interpolated",SP.POP.AG08.FE.IN,59425,58612,58506,59222,60548,62356,64275,66994,70641,74479
+Azerbaijan,AZE,"Age population, age 08, male, interpolated",SP.POP.AG08.MA.IN,68652,67993,68002,68832,70289,72260,74252,77268,81494,85944
+Azerbaijan,AZE,"Age population, age 09, female, interpolated",SP.POP.AG09.FE.IN,60764,59396,58555,58489,59295,60668,62162,64145,67061,70916
+Azerbaijan,AZE,"Age population, age 09, male, interpolated",SP.POP.AG09.MA.IN,69781,68616,67905,67948,68885,70412,71949,74063,77366,81869
+Azerbaijan,AZE,"Age population, age 10, female, interpolated",SP.POP.AG10.FE.IN,62479,60782,59342,58468,58465,59377,60584,62036,64039,67094
+Azerbaijan,AZE,"Age population, age 10, male, interpolated",SP.POP.AG10.MA.IN,71272,69798,68534,67779,67898,68970,70246,71763,73926,77415
+"Bahamas, The",BHS,Age dependency ratio (% of working-age population),SP.POP.DPND,49.2481708855437,48.4364873288392,47.4046955894217,46.2570157303729,45.1709307973115,44.26329363779,43.3239789146346,42.7236225241325,42.3335707774017,41.962785442219
+"Bahamas, The",BHS,"Age dependency ratio, old",SP.POP.DPND.OL,9.12454797746195,9.22297032318787,9.31252711254901,9.40795003246456,9.51791561564855,9.65415145475363,9.85361598847131,10.0769397566939,10.3299242270457,10.6234623024913
+"Bahamas, The",BHS,"Age dependency ratio, young",SP.POP.DPND.YG,40.1236229080817,39.2135170056513,38.0921684768727,36.8490656979083,35.6530151816629,34.6091421830364,33.4703629261633,32.6466827674386,32.003646550356,31.3393231397277
+"Bahamas, The",BHS,"Age population, age 00, female, interpolated",SP.POP.AG00.FE.IN,3055,2916,2696,2453,2265,2186,2249,2422,2646,2844
+"Bahamas, The",BHS,"Age population, age 00, male, interpolated",SP.POP.AG00.MA.IN,3095,2989,2818,2627,2479,2418,2470,2607,2786,2943
+"Bahamas, The",BHS,"Age population, age 01, female, interpolated",SP.POP.AG01.FE.IN,3087,3047,2833,2654,2504,2418,2241,2478,2575,2668
+"Bahamas, The",BHS,"Age population, age 01, male, interpolated",SP.POP.AG01.MA.IN,3105,3086,2912,2776,2663,2598,2463,2653,2731,2806
+"Bahamas, The",BHS,"Age population, age 02, female, interpolated",SP.POP.AG02.FE.IN,3117,3088,3038,2821,2703,2613,2436,2292,2541,2553
+"Bahamas, The",BHS,"Age population, age 02, male, interpolated",SP.POP.AG02.MA.IN,3117,3105,3076,2899,2813,2748,2614,2504,2704,2715
+"Bahamas, The",BHS,"Age population, age 03, female, interpolated",SP.POP.AG03.FE.IN,3143,3123,3088,3028,2863,2773,2608,2450,2341,2492
+"Bahamas, The",BHS,"Age population, age 03, male, interpolated",SP.POP.AG03.MA.IN,3130,3122,3105,3066,2934,2870,2745,2625,2543,2666
+"Bahamas, The",BHS,"Age population, age 04, female, interpolated",SP.POP.AG04.FE.IN,3166,3152,3129,3088,3017,2903,2757,2598,2462,2391
+"Bahamas, The",BHS,"Age population, age 04, male, interpolated",SP.POP.AG04.MA.IN,3144,3138,3128,3104,3055,2968,2858,2738,2635,2583
+"Bahamas, The",BHS,"Age population, age 05, female, interpolated",SP.POP.AG05.FE.IN,3186,3175,3160,3134,3086,3005,2884,2735,2586,2474
+"Bahamas, The",BHS,"Age population, age 05, male, interpolated",SP.POP.AG05.MA.IN,3159,3153,3146,3133,3102,3043,2953,2841,2728,2644
+"Bahamas, The",BHS,"Age population, age 06, female, interpolated",SP.POP.AG06.FE.IN,3202,3193,3183,3167,3137,3083,2992,2859,2710,2574
+"Bahamas, The",BHS,"Age population, age 06, male, interpolated",SP.POP.AG06.MA.IN,3174,3166,3161,3154,3137,3099,3034,2934,2822,2719
+"Bahamas, The",BHS,"Age population, age 07, female, interpolated",SP.POP.AG07.FE.IN,3215,3205,3199,3191,3173,3139,3086,2974,2832,2687
+"Bahamas, The",BHS,"Age population, age 07, male, interpolated",SP.POP.AG07.MA.IN,3188,3176,3172,3169,3161,3139,3102,3020,2913,2803
+"Bahamas, The",BHS,"Age population, age 08, female, interpolated",SP.POP.AG08.FE.IN,3225,3215,3206,3204,3197,3178,3154,3083,2953,2805
+"Bahamas, The",BHS,"Age population, age 08, male, interpolated",SP.POP.AG08.MA.IN,3201,3187,3177,3178,3176,3165,3152,3101,3003,2892
+"Bahamas, The",BHS,"Age population, age 09, female, interpolated",SP.POP.AG09.FE.IN,3231,3226,3214,3207,3208,3202,3194,3163,3078,2933
+"Bahamas, The",BHS,"Age population, age 09, male, interpolated",SP.POP.AG09.MA.IN,3213,3202,3186,3178,3182,3181,3179,3159,3097,2987
+"Bahamas, The",BHS,"Age population, age 10, female, interpolated",SP.POP.AG10.FE.IN,3232,3236,3226,3212,3206,3210,3213,3205,3169,3073
+"Bahamas, The",BHS,"Age population, age 10, male, interpolated",SP.POP.AG10.MA.IN,3220,3217,3202,3184,3178,3185,3191,3188,3165,3093
+Bahrain,BHR,Age dependency ratio (% of working-age population),SP.POP.DPND,28.8515755206305,29.0296561533717,29.2106374836616,29.4758264609277,29.819244622666,30.1641745869543,29.4204093043859,28.5575507471715,27.6823885939756,26.9639834507685
+Bahrain,BHR,"Age dependency ratio, old",SP.POP.DPND.OL,2.67981287934248,2.76492625079877,2.84504480326818,2.91762171443875,2.97916498652812,3.02531740451772,3.0316590933434,3.04977787491299,3.09801289482783,3.19798116704883
+Bahrain,BHR,"Age dependency ratio, young",SP.POP.DPND.YG,26.171762641288,26.2647299025729,26.3655926803934,26.558204746489,26.8400796361379,27.1388571824366,26.3887502110425,25.5077728722585,24.5843756991478,23.7660022837197
+Bahrain,BHR,"Age population, age 00, female, interpolated",SP.POP.AG00.FE.IN,9363,9746,10012,10187,10317,10440,10508,10564,10609,10641
+Bahrain,BHR,"Age population, age 00, male, interpolated",SP.POP.AG00.MA.IN,9724,10346,10830,11166,11368,11457,10915,10246,9540,8997
+Bahrain,BHR,"Age population, age 01, female, interpolated",SP.POP.AG01.FE.IN,9166,9559,9842,10077,10269,10440,10442,10611,10662,10693
+Bahrain,BHR,"Age population, age 01, male, interpolated",SP.POP.AG01.MA.IN,9492,9915,10367,10656,10910,11174,11498,10786,10584,10393
+Bahrain,BHR,"Age population, age 02, female, interpolated",SP.POP.AG02.FE.IN,8976,9355,9678,9937,10174,10380,10421,10473,10663,10703
+Bahrain,BHR,"Age population, age 02, male, interpolated",SP.POP.AG02.MA.IN,9285,9682,9948,10228,10516,10905,11240,11720,11294,11369
+Bahrain,BHR,"Age population, age 03, female, interpolated",SP.POP.AG03.FE.IN,8792,9150,9467,9749,10036,10268,10347,10431,10519,10672
+Bahrain,BHR,"Age population, age 03, male, interpolated",SP.POP.AG03.MA.IN,9100,9472,9719,9922,10180,10650,10958,11483,12013,11975
+Bahrain,BHR,"Age population, age 04, female, interpolated",SP.POP.AG04.FE.IN,8614,8947,9250,9533,9818,10111,10227,10343,10456,10558
+Bahrain,BHR,"Age population, age 04, male, interpolated",SP.POP.AG04.MA.IN,8935,9280,9507,9697,9968,10406,10661,11183,11796,12249
+Bahrain,BHR,"Age population, age 05, female, interpolated",SP.POP.AG05.FE.IN,8444,8748,9030,9305,9596,9915,10067,10215,10353,10473
+Bahrain,BHR,"Age population, age 05, male, interpolated",SP.POP.AG05.MA.IN,8785,9104,9312,9486,9746,10173,10357,10839,11476,12053
+Bahrain,BHR,"Age population, age 06, female, interpolated",SP.POP.AG06.FE.IN,8281,8555,8810,9069,9357,9688,9874,10051,10217,10357
+Bahrain,BHR,"Age population, age 06, male, interpolated",SP.POP.AG06.MA.IN,8649,8953,9129,9287,9534,9949,10042,10471,11084,11715
+Bahrain,BHR,"Age population, age 07, female, interpolated",SP.POP.AG07.FE.IN,8127,8371,8595,8829,9105,9437,9655,9859,10049,10212
+Bahrain,BHR,"Age population, age 07, male, interpolated",SP.POP.AG07.MA.IN,8524,8834,8979,9100,9331,9733,9709,10069,10648,11275
+Bahrain,BHR,"Age population, age 08, female, interpolated",SP.POP.AG08.FE.IN,7980,8192,8392,8594,8846,9168,9410,9650,9859,10040
+Bahrain,BHR,"Age population, age 08, male, interpolated",SP.POP.AG08.MA.IN,8408,8693,8878,8951,9137,9523,9438,9624,10155,10773
+Bahrain,BHR,"Age population, age 09, female, interpolated",SP.POP.AG09.FE.IN,7841,8017,8190,8372,8591,8889,9138,9408,9657,9852
+Bahrain,BHR,"Age population, age 09, male, interpolated",SP.POP.AG09.MA.IN,8296,8508,8724,8869,8988,9319,9265,9294,9593,10191
+Bahrain,BHR,"Age population, age 10, female, interpolated",SP.POP.AG10.FE.IN,7727,7850,7987,8149,8351,8614,8853,9134,9421,9659
+Bahrain,BHR,"Age population, age 10, male, interpolated",SP.POP.AG10.MA.IN,8251,8306,8472,8702,8925,9168,9157,9155,9202,9514
+Bangladesh,BGD,Age dependency ratio (% of working-age population),SP.POP.DPND,58.1246800817294,56.950387836494,55.8269893872859,54.7188127373883,53.5786673377526,52.3958676972212,51.2600198099111,50.0916973486189,48.9522984985764,47.9174336199104
+Bangladesh,BGD,"Age dependency ratio, old",SP.POP.DPND.OL,7.54543273394102,7.63705022161229,7.71517537111478,7.77133178557139,7.79294314136617,7.77730362216042,7.76813020322796,7.72893417928699,7.68354159657816,7.66264276715844
+Bangladesh,BGD,"Age dependency ratio, young",SP.POP.DPND.YG,50.5792473477883,49.3133376148817,48.1118140161711,46.9474809518169,45.7857241963865,44.6185640750608,43.4918896066831,42.3627631693319,41.2687569019982,40.254790852752
+Bangladesh,BGD,"Age population, age 00, female, interpolated",SP.POP.AG00.FE.IN,1450987,1441279,1438966,1441206,1443692,1443110,1437361,1428675,1417619,1405367
+Bangladesh,BGD,"Age population, age 00, male, interpolated",SP.POP.AG00.MA.IN,1514534,1503763,1501604,1504748,1508213,1508193,1502641,1493792,1482283,1469424
+Bangladesh,BGD,"Age population, age 01, female, interpolated",SP.POP.AG01.FE.IN,1476983,1451882,1453090,1445962,1440193,1434428,1437700,1420319,1413113,1405230
+Bangladesh,BGD,"Age population, age 01, male, interpolated",SP.POP.AG01.MA.IN,1540748,1514001,1515325,1508704,1503572,1498159,1502263,1484117,1476651,1468419
+Bangladesh,BGD,"Age population, age 02, female, interpolated",SP.POP.AG02.FE.IN,1499834,1475532,1452479,1453996,1442048,1432222,1432172,1432757,1412434,1407253
+Bangladesh,BGD,"Age population, age 02, male, interpolated",SP.POP.AG02.MA.IN,1563846,1537856,1514085,1516225,1504640,1494990,1495656,1496633,1475117,1469761
+Bangladesh,BGD,"Age population, age 03, female, interpolated",SP.POP.AG03.FE.IN,1519583,1497017,1473779,1453037,1448399,1435548,1431925,1430381,1428052,1411191
+Bangladesh,BGD,"Age population, age 03, male, interpolated",SP.POP.AG03.MA.IN,1583850,1559612,1535591,1514719,1510522,1497704,1494668,1493451,1491137,1473203
+Bangladesh,BGD,"Age population, age 04, female, interpolated",SP.POP.AG04.FE.IN,1536273,1516183,1493893,1471986,1453862,1443462,1436190,1432092,1428828,1423301
+Bangladesh,BGD,"Age population, age 04, male, interpolated",SP.POP.AG04.MA.IN,1600781,1579091,1556015,1533885,1515739,1505324,1498505,1494645,1491379,1485597
+Bangladesh,BGD,"Age population, age 05, female, interpolated",SP.POP.AG05.FE.IN,1549947,1532875,1512472,1490730,1470464,1455020,1444198,1437297,1432498,1427231
+Bangladesh,BGD,"Age population, age 05, male, interpolated",SP.POP.AG05.MA.IN,1614662,1596117,1574979,1552985,1532569,1516871,1506372,1499605,1494755,1489264
+Bangladesh,BGD,"Age population, age 06, female, interpolated",SP.POP.AG06.FE.IN,1560649,1547219,1529163,1508722,1487842,1469278,1455082,1445402,1438643,1432860
+Bangladesh,BGD,"Age population, age 06, male, interpolated",SP.POP.AG06.MA.IN,1625515,1610735,1592105,1571441,1550349,1531364,1517314,1507721,1500839,1494823
+Bangladesh,BGD,"Age population, age 07, female, interpolated",SP.POP.AG07.FE.IN,1568422,1559342,1544175,1525411,1505249,1485292,1467973,1455616,1446847,1439946
+Bangladesh,BGD,"Age population, age 07, male, interpolated",SP.POP.AG07.MA.IN,1633361,1622992,1607465,1588674,1568300,1547824,1530374,1518059,1509204,1502030
+Bangladesh,BGD,"Age population, age 08, female, interpolated",SP.POP.AG08.FE.IN,1573308,1567688,1557715,1541089,1521940,1502120,1482604,1467144,1456392,1448248
+Bangladesh,BGD,"Age population, age 08, male, interpolated",SP.POP.AG08.MA.IN,1638223,1631585,1621132,1604781,1585644,1565272,1545561,1529690,1518941,1510643
+Bangladesh,BGD,"Age population, age 09, female, interpolated",SP.POP.AG09.FE.IN,1575352,1571544,1566633,1556046,1538287,1518815,1498409,1480397,1466559,1457124
+Bangladesh,BGD,"Age population, age 09, male, interpolated",SP.POP.AG09.MA.IN,1640122,1635884,1630474,1619861,1602504,1582729,1562400,1543607,1529143,1519779
+Bangladesh,BGD,"Age population, age 10, female, interpolated",SP.POP.AG10.FE.IN,1575114,1571595,1569458,1565536,1554664,1535836,1514318,1495185,1478437,1465929
+Bangladesh,BGD,"Age population, age 10, male, interpolated",SP.POP.AG10.MA.IN,1639354,1636387,1634212,1629956,1619001,1600342,1579616,1559841,1541791,1528551
+Barbados,BRB,Age dependency ratio (% of working-age population),SP.POP.DPND,49.240128011849,49.0998277106593,49.0600338366802,49.0817942505952,49.1245981633315,49.1827792824352,49.2399517495992,49.3675311798779,49.5788803540119,49.8832892077765
+Barbados,BRB,"Age dependency ratio, old",SP.POP.DPND.OL,19.775714776905,20.0761866625921,20.44912413438,20.8895740909711,21.38085215552,21.9086260444008,22.4484467444034,23.0188383864739,23.6374926943308,24.3275421803769
+Barbados,BRB,"Age dependency ratio, young",SP.POP.DPND.YG,29.4644132349441,29.0236410480671,28.6109097023003,28.1922201596241,27.7437460078116,27.2741532380345,26.7915050051958,26.348692793404,25.9413876596811,25.5557470273996
+Barbados,BRB,"Age population, age 00, female, interpolated",SP.POP.AG00.FE.IN,1633,1588,1538,1490,1454,1437,1444,1470,1506,1536
+Barbados,BRB,"Age population, age 00, male, interpolated",SP.POP.AG00.MA.IN,1642,1605,1570,1541,1522,1515,1523,1544,1569,1590
+Barbados,BRB,"Age population, age 01, female, interpolated",SP.POP.AG01.FE.IN,1693,1639,1607,1557,1514,1484,1444,1474,1485,1496
+Barbados,BRB,"Age population, age 01, male, interpolated",SP.POP.AG01.MA.IN,1735,1654,1652,1606,1568,1541,1516,1531,1539,1547
+Barbados,BRB,"Age population, age 02, female, interpolated",SP.POP.AG02.FE.IN,1742,1695,1645,1616,1568,1530,1486,1450,1478,1473
+Barbados,BRB,"Age population, age 02, male, interpolated",SP.POP.AG02.MA.IN,1809,1737,1665,1666,1615,1574,1542,1517,1525,1523
+Barbados,BRB,"Age population, age 03, female, interpolated",SP.POP.AG03.FE.IN,1781,1741,1696,1649,1618,1574,1528,1487,1455,1466
+Barbados,BRB,"Age population, age 03, male, interpolated",SP.POP.AG03.MA.IN,1867,1806,1739,1677,1662,1612,1574,1541,1517,1514
+Barbados,BRB,"Age population, age 04, female, interpolated",SP.POP.AG04.FE.IN,1811,1779,1739,1696,1653,1617,1571,1526,1487,1461
+Barbados,BRB,"Age population, age 04, male, interpolated",SP.POP.AG04.MA.IN,1911,1861,1802,1741,1688,1654,1612,1573,1540,1517
+Barbados,BRB,"Age population, age 05, female, interpolated",SP.POP.AG05.FE.IN,1833,1809,1776,1737,1696,1657,1613,1567,1523,1487
+Barbados,BRB,"Age population, age 05, male, interpolated",SP.POP.AG05.MA.IN,1941,1904,1854,1798,1742,1698,1654,1610,1571,1539
+Barbados,BRB,"Age population, age 06, female, interpolated",SP.POP.AG06.FE.IN,1849,1832,1805,1772,1734,1695,1655,1610,1563,1521
+Barbados,BRB,"Age population, age 06, male, interpolated",SP.POP.AG06.MA.IN,1960,1936,1897,1847,1794,1744,1698,1652,1609,1570
+Barbados,BRB,"Age population, age 07, female, interpolated",SP.POP.AG07.FE.IN,1859,1849,1829,1801,1768,1731,1695,1652,1605,1559
+Barbados,BRB,"Age population, age 07, male, interpolated",SP.POP.AG07.MA.IN,1970,1960,1931,1889,1840,1789,1744,1697,1651,1607
+Barbados,BRB,"Age population, age 08, female, interpolated",SP.POP.AG08.FE.IN,1864,1861,1849,1826,1797,1763,1733,1695,1649,1601
+Barbados,BRB,"Age population, age 08, male, interpolated",SP.POP.AG08.MA.IN,1972,1972,1959,1925,1882,1833,1790,1744,1696,1649
+Barbados,BRB,"Age population, age 09, female, interpolated",SP.POP.AG09.FE.IN,1867,1866,1862,1848,1823,1792,1765,1734,1694,1645
+Barbados,BRB,"Age population, age 09, male, interpolated",SP.POP.AG09.MA.IN,1967,1974,1974,1957,1920,1874,1834,1790,1743,1694
+Barbados,BRB,"Age population, age 10, female, interpolated",SP.POP.AG10.FE.IN,1865,1868,1867,1862,1847,1819,1793,1766,1734,1693
+Barbados,BRB,"Age population, age 10, male, interpolated",SP.POP.AG10.MA.IN,1956,1967,1976,1976,1956,1914,1874,1834,1789,1742
+Belarus,BLR,Age dependency ratio (% of working-age population),SP.POP.DPND,40.5676243588014,40.8898790016915,41.4727646257625,42.2618957267765,43.1486567277834,44.0639238558713,44.7804264085623,45.5244210861446,46.4366637235728,47.5735189812643
+Belarus,BLR,"Age dependency ratio, old",SP.POP.DPND.OL,19.629072341676,19.6625039988471,19.810997827197,20.0489696078539,20.3313635966,20.6340071111859,20.8711784138284,21.2103685642893,21.7387323202049,22.4324202144658
+Belarus,BLR,"Age dependency ratio, young",SP.POP.DPND.YG,20.9385520171254,21.2273750028444,21.6617667985655,22.2129261189226,22.8172931311834,23.4299167446855,23.9092479947339,24.3140525218552,24.6979314033678,25.1410987667985
+Belarus,BLR,"Age population, age 00, female, interpolated",SP.POP.AG00.FE.IN,53910,55074,56153,56907,57036,56361,54718,52259,49508,47207
+Belarus,BLR,"Age population, age 00, male, interpolated",SP.POP.AG00.MA.IN,57311,58665,60010,60964,61035,59930,57318,53507,49374,46159
+Belarus,BLR,"Age population, age 01, female, interpolated",SP.POP.AG01.FE.IN,51588,53791,54491,55695,56471,56689,57116,55267,53928,52580
+Belarus,BLR,"Age population, age 01, male, interpolated",SP.POP.AG01.MA.IN,54752,57123,58065,59466,60272,60266,60673,57411,55187,53197
+Belarus,BLR,"Age population, age 02, female, interpolated",SP.POP.AG02.FE.IN,49433,51624,53693,54291,55566,56478,57279,57888,56924,56366
+Belarus,BLR,"Age population, age 02, male, interpolated",SP.POP.AG02.MA.IN,52387,54741,56984,57800,59171,60022,60878,61453,59239,58262
+Belarus,BLR,"Age population, age 03, female, interpolated",SP.POP.AG03.FE.IN,47475,49564,51680,53604,54386,55811,56866,57886,58647,58740
+Belarus,BLR,"Age population, age 03, male, interpolated",SP.POP.AG03.MA.IN,50247,52485,54775,56873,57799,59285,60440,61528,62229,61569
+Belarus,BLR,"Age population, age 04, female, interpolated",SP.POP.AG04.FE.IN,45745,47651,49714,51745,53519,54769,55975,57270,58480,59366
+Belarus,BLR,"Age population, age 04, male, interpolated",SP.POP.AG04.MA.IN,48362,50397,52626,54838,56777,58143,59467,60895,62174,62955
+Belarus,BLR,"Age population, age 05, female, interpolated",SP.POP.AG05.FE.IN,44271,45925,47844,49872,51813,53430,54702,56153,57661,59034
+Belarus,BLR,"Age population, age 05, male, interpolated",SP.POP.AG05.MA.IN,46764,48521,50590,52795,54915,56683,58069,59685,61345,62768
+Belarus,BLR,"Age population, age 06, female, interpolated",SP.POP.AG06.FE.IN,43085,44416,46122,48046,50033,51878,53107,54651,56320,58013
+Belarus,BLR,"Age population, age 06, male, interpolated",SP.POP.AG06.MA.IN,45484,46885,48719,50808,52977,54994,56310,58031,59898,61745
+Belarus,BLR,"Age population, age 07, female, interpolated",SP.POP.AG07.FE.IN,42216,43154,44578,46328,48251,50192,51248,52799,54588,56448
+Belarus,BLR,"Age population, age 07, male, interpolated",SP.POP.AG07.MA.IN,44552,45522,47045,48943,51040,53161,54249,55970,57987,60062
+Belarus,BLR,"Age population, age 08, female, interpolated",SP.POP.AG08.FE.IN,41694,42231,43240,44747,46536,48453,49417,50632,52478,54487
+Belarus,BLR,"Age population, age 08, male, interpolated",SP.POP.AG08.MA.IN,43999,44530,45598,47229,49180,51274,52238,53537,55624,57896
+Belarus,BLR,"Age population, age 09, female, interpolated",SP.POP.AG09.FE.IN,41551,41708,42262,43333,44919,46743,47790,48655,50004,52121
+Belarus,BLR,"Age population, age 09, male, interpolated",SP.POP.AG09.MA.IN,43856,43977,44546,45697,47426,49418,50482,51346,52819,55233
+Belarus,BLR,"Age population, age 10, female, interpolated",SP.POP.AG10.FE.IN,41706,41594,41737,42301,43429,45089,46347,47140,47882,49341
+Belarus,BLR,"Age population, age 10, male, interpolated",SP.POP.AG10.MA.IN,44033,43868,43991,44585,45808,47624,48948,49721,50448,52057
+Belgium,BEL,Age dependency ratio (% of working-age population),SP.POP.DPND,52.0144279661342,52.3287119230453,52.7442633911964,53.236903384491,53.7373881178284,54.193605740924,54.7713516344904,55.3290794008081,55.8704656667833,56.4082895996476
+Belgium,BEL,"Age dependency ratio, old",SP.POP.DPND.OL,26.3502220937405,26.5566295836039,26.8723319957528,27.2564989768559,27.6376308952316,27.9742851027427,28.4343762356764,28.8664765965663,29.2861038187606,29.7278516966691
+Belgium,BEL,"Age dependency ratio, young",SP.POP.DPND.YG,25.6642058723937,25.7720823394415,25.8719313954437,25.9804044076351,26.0997572225969,26.2193206381813,26.336975398814,26.4626028042418,26.5843618480227,26.6804379029786
+Belgium,BEL,"Age population, age 00, female, interpolated",SP.POP.AG00.FE.IN,64007,63925,63312,62353,61330,60464,60002,59694,59545,59527
+Belgium,BEL,"Age population, age 00, male, interpolated",SP.POP.AG00.MA.IN,66907,66761,66118,65177,64230,63489,63031,62780,62696,62696
+Belgium,BEL,"Age population, age 01, female, interpolated",SP.POP.AG01.FE.IN,62727,64189,63243,63041,62672,62235,61207,61581,61201,60869
+Belgium,BEL,"Age population, age 01, male, interpolated",SP.POP.AG01.MA.IN,65670,67048,66073,65839,65514,65222,64476,64818,64634,64426
+Belgium,BEL,"Age population, age 02, female, interpolated",SP.POP.AG02.FE.IN,61630,63117,64367,63408,63556,63481,62737,61902,62526,62009
+Belgium,BEL,"Age population, age 02, male, interpolated",SP.POP.AG02.MA.IN,64590,66007,67176,66174,66348,66434,65983,65470,66173,65864
+Belgium,BEL,"Age population, age 03, female, interpolated",SP.POP.AG03.FE.IN,60712,62148,63502,64518,64042,64261,63825,63189,62560,62959
+Belgium,BEL,"Age population, age 03, male, interpolated",SP.POP.AG03.MA.IN,63666,65049,66331,67297,66791,67186,67040,66750,66447,67030
+Belgium,BEL,"Age population, age 04, female, interpolated",SP.POP.AG04.FE.IN,59967,61290,62661,63861,64623,64639,64518,64118,63604,63194
+Belgium,BEL,"Age population, age 04, male, interpolated",SP.POP.AG04.MA.IN,62898,64185,65495,66648,67421,67540,67700,67654,67501,67374
+Belgium,BEL,"Age population, age 05, female, interpolated",SP.POP.AG05.FE.IN,59391,60553,61865,63148,64174,64677,64866,64723,64373,63993
+Belgium,BEL,"Age population, age 05, male, interpolated",SP.POP.AG05.MA.IN,62283,63427,64692,65934,66968,67557,68010,68221,68250,68200
+Belgium,BEL,"Age population, age 06, female, interpolated",SP.POP.AG06.FE.IN,58979,59937,61136,62413,63590,64437,64931,65040,64890,64603
+Belgium,BEL,"Age population, age 06, male, interpolated",SP.POP.AG06.MA.IN,61823,62777,63945,65191,66375,67300,68035,68488,68723,68795
+Belgium,BEL,"Age population, age 07, female, interpolated",SP.POP.AG07.FE.IN,58728,59440,60479,61693,62917,63981,64775,65132,65176,65031
+Belgium,BEL,"Age population, age 07, male, interpolated",SP.POP.AG07.MA.IN,61515,62236,63260,64456,65693,66829,67836,68520,68947,69174
+Belgium,BEL,"Age population, age 08, female, interpolated",SP.POP.AG08.FE.IN,58632,59119,59897,60996,62206,63371,64380,65062,65295,65286
+Belgium,BEL,"Age population, age 08, male, interpolated",SP.POP.AG08.MA.IN,61360,61867,62638,63735,64970,66207,67403,68380,68987,69355
+Belgium,BEL,"Age population, age 09, female, interpolated",SP.POP.AG09.FE.IN,58687,58998,59505,60329,61469,62670,63767,64728,65309,65432
+Belgium,BEL,"Age population, age 09, male, interpolated",SP.POP.AG09.MA.IN,61357,61705,62208,63032,64213,65495,66760,67984,68906,69402
+Belgium,BEL,"Age population, age 10, female, interpolated",SP.POP.AG10.FE.IN,58848,59061,59361,59867,60719,61894,63026,64113,65037,65531
+Belgium,BEL,"Age population, age 10, male, interpolated",SP.POP.AG10.MA.IN,61445,61728,62038,62542,63430,64702,65996,67321,68547,69380
+Belize,BLZ,Age dependency ratio (% of working-age population),SP.POP.DPND,65.8142775603811,63.9519816505563,62.2675205714889,60.6691391073188,59.0914616302366,57.5287401471705,56.3335455124125,55.0854732602002,53.8845637799577,52.8392606137016
+Belize,BLZ,"Age dependency ratio, old",SP.POP.DPND.OL,6.76340674540939,6.76834323786261,6.79171187433389,6.82802595133196,6.88382144384666,6.9578652420981,7.0515595162317,7.15854030986636,7.28867892694449,7.43928175692343
+Belize,BLZ,"Age dependency ratio, young",SP.POP.DPND.YG,59.0508708149717,57.1836384126937,55.475808697155,53.8411131559868,52.2076401863899,50.5708749050724,49.2819859961808,47.9269329503339,46.5958848530132,45.3999788567782
+Belize,BLZ,"Age population, age 00, female, interpolated",SP.POP.AG00.FE.IN,3540,3615,3720,3836,3934,3993,4003,3974,3924,3881
+Belize,BLZ,"Age population, age 00, male, interpolated",SP.POP.AG00.MA.IN,3729,3782,3848,3919,3980,4021,4039,4036,4022,4010
+Belize,BLZ,"Age population, age 01, female, interpolated",SP.POP.AG01.FE.IN,3643,3573,3724,3779,3830,3867,3968,3889,3886,3885
+Belize,BLZ,"Age population, age 01, male, interpolated",SP.POP.AG01.MA.IN,3809,3754,3858,3890,3920,3944,4008,3974,3983,3994
+Belize,BLZ,"Age population, age 02, female, interpolated",SP.POP.AG02.FE.IN,3728,3657,3600,3744,3758,3777,3862,3945,3852,3880
+Belize,BLZ,"Age population, age 02, male, interpolated",SP.POP.AG02.MA.IN,3871,3819,3776,3873,3879,3889,3943,3996,3952,3977
+Belize,BLZ,"Age population, age 03, female, interpolated",SP.POP.AG03.FE.IN,3795,3730,3666,3625,3714,3717,3783,3858,3922,3869
+Belize,BLZ,"Age population, age 03, male, interpolated",SP.POP.AG03.MA.IN,3918,3872,3826,3796,3856,3855,3895,3942,3983,3960
+Belize,BLZ,"Age population, age 04, female, interpolated",SP.POP.AG04.FE.IN,3845,3791,3727,3672,3650,3685,3730,3792,3856,3898
+Belize,BLZ,"Age population, age 04, male, interpolated",SP.POP.AG04.MA.IN,3950,3914,3871,3832,3815,3838,3864,3901,3940,3969
+Belize,BLZ,"Age population, age 05, female, interpolated",SP.POP.AG05.FE.IN,3880,3840,3782,3721,3679,3676,3699,3745,3802,3852
+Belize,BLZ,"Age population, age 05, male, interpolated",SP.POP.AG05.MA.IN,3968,3945,3908,3868,3838,3835,3847,3874,3907,3938
+Belize,BLZ,"Age population, age 06, female, interpolated",SP.POP.AG06.FE.IN,3901,3878,3829,3769,3716,3686,3686,3715,3761,3811
+Belize,BLZ,"Age population, age 06, male, interpolated",SP.POP.AG06.MA.IN,3974,3966,3937,3900,3864,3843,3842,3857,3882,3911
+Belize,BLZ,"Age population, age 07, female, interpolated",SP.POP.AG07.FE.IN,3908,3906,3870,3815,3758,3711,3686,3697,3731,3775
+Belize,BLZ,"Age population, age 07, male, interpolated",SP.POP.AG07.MA.IN,3967,3976,3960,3928,3891,3860,3844,3849,3866,3890
+Belize,BLZ,"Age population, age 08, female, interpolated",SP.POP.AG08.FE.IN,3902,3919,3905,3859,3802,3747,3705,3689,3710,3746
+Belize,BLZ,"Age population, age 08, male, interpolated",SP.POP.AG08.MA.IN,3950,3975,3976,3952,3918,3882,3858,3846,3855,3874
+Belize,BLZ,"Age population, age 09, female, interpolated",SP.POP.AG09.FE.IN,3885,3916,3924,3901,3848,3789,3742,3701,3692,3721
+Belize,BLZ,"Age population, age 09, male, interpolated",SP.POP.AG09.MA.IN,3923,3959,3979,3974,3944,3908,3882,3856,3847,3861
+Belize,BLZ,"Age population, age 10, female, interpolated",SP.POP.AG10.FE.IN,3858,3899,3923,3927,3898,3839,3791,3740,3698,3693
+Belize,BLZ,"Age population, age 10, male, interpolated",SP.POP.AG10.MA.IN,3886,3932,3965,3981,3971,3936,3911,3881,3853,3847
+Benin,BEN,Age dependency ratio (% of working-age population),SP.POP.DPND,88.9498369662893,88.6136399159168,88.1103885369468,87.4915409815666,86.8114230756239,86.0977848350733,85.5345861505224,84.8857079752531,84.1664350899012,83.3866501323985
+Benin,BEN,"Age dependency ratio, old",SP.POP.DPND.OL,6.10287298775322,6.10500352473214,6.08768787116246,6.05972127920786,6.03083098672887,6.0067133461716,6.00301031082654,5.99759942492082,5.99204680133023,5.9873630950161
+Benin,BEN,"Age dependency ratio, young",SP.POP.DPND.YG,82.846963978536,82.5086363911847,82.0227006657844,81.4318197023587,80.780592088895,80.0910714889017,79.5315758396958,78.8881085503322,78.174388288571,77.3992870373824
+Benin,BEN,"Age population, age 00, female, interpolated",SP.POP.AG00.FE.IN,164780,168184,171467,174663,177840,181059,184077,187168,190364,193712
+Benin,BEN,"Age population, age 00, male, interpolated",SP.POP.AG00.MA.IN,170114,173599,176982,180287,183565,186868,189967,193126,196390,199816
+Benin,BEN,"Age population, age 01, female, interpolated",SP.POP.AG01.FE.IN,158726,163132,165695,169150,172587,176018,179676,182405,185661,189006
+Benin,BEN,"Age population, age 01, male, interpolated",SP.POP.AG01.MA.IN,163716,168288,170891,174484,178050,181587,185362,188140,191461,194875
+Benin,BEN,"Age population, age 02, female, interpolated",SP.POP.AG02.FE.IN,153113,157410,161559,163892,167515,171104,174809,178371,181045,184408
+Benin,BEN,"Age population, age 02, male, interpolated",SP.POP.AG02.MA.IN,157801,162253,166584,168960,172732,176443,180270,183926,186633,190059
+Benin,BEN,"Age population, age 03, female, interpolated",SP.POP.AG03.FE.IN,147905,152064,156165,160040,162617,166316,170060,173676,177117,179912
+Benin,BEN,"Age population, age 03, male, interpolated",SP.POP.AG03.MA.IN,152330,156630,160908,164962,167604,171434,175306,179020,182535,185360
+Benin,BEN,"Age population, age 04, female, interpolated",SP.POP.AG04.FE.IN,143066,147066,151084,154973,158561,161653,165426,169089,172592,175887
+Benin,BEN,"Age population, age 04, male, interpolated",SP.POP.AG04.MA.IN,147261,151387,155573,159642,163381,166559,170466,174234,177815,181168
+Benin,BEN,"Age population, age 05, female, interpolated",SP.POP.AG05.FE.IN,138563,142388,146293,150155,153819,157113,160905,164608,168167,171531
+Benin,BEN,"Age population, age 05, male, interpolated",SP.POP.AG05.MA.IN,142555,146491,150554,154592,158415,161817,165746,169561,173205,176632
+Benin,BEN,"Age population, age 06, female, interpolated",SP.POP.AG06.FE.IN,134359,137997,141772,145570,149263,152696,156497,160226,163836,167267
+Benin,BEN,"Age population, age 06, male, interpolated",SP.POP.AG06.MA.IN,138172,141906,145827,149795,153649,157206,161149,164995,168698,172199
+Benin,BEN,"Age population, age 07, female, interpolated",SP.POP.AG07.FE.IN,130420,133862,137492,141205,144883,148401,152206,155949,159593,163087
+Benin,BEN,"Age population, age 07, male, interpolated",SP.POP.AG07.MA.IN,134071,137594,141359,145235,149073,152723,156675,160541,164285,167857
+Benin,BEN,"Age population, age 08, female, interpolated",SP.POP.AG08.FE.IN,126711,129973,133425,137035,140673,144225,148002,151781,155445,158982
+Benin,BEN,"Age population, age 08, male, interpolated",SP.POP.AG08.MA.IN,130214,133546,137115,140882,144679,148368,152293,156202,159972,163595
+Benin,BEN,"Age population, age 09, female, interpolated",SP.POP.AG09.FE.IN,123196,126307,129584,133033,136611,140170,143874,147668,151400,154962
+Benin,BEN,"Age population, age 09, male, interpolated",SP.POP.AG09.MA.IN,126559,129738,133116,136704,140439,144140,147989,151919,155768,159424
+Benin,BEN,"Age population, age 10, female, interpolated",SP.POP.AG10.FE.IN,119868,122827,125960,129238,132674,136215,139832,143584,147375,151039
+Benin,BEN,"Age population, age 10, male, interpolated",SP.POP.AG10.MA.IN,123099,126125,129355,132752,136326,140013,143775,147665,151583,155354
+Bermuda,BMU,Age dependency ratio (% of working-age population),SP.POP.DPND,..,..,..,..,..,..,..,..,..,..
+Bermuda,BMU,"Age dependency ratio, old",SP.POP.DPND.OL,..,..,..,..,..,..,..,..,..,..
+Bermuda,BMU,"Age dependency ratio, young",SP.POP.DPND.YG,..,..,..,..,..,..,..,..,..,..
+Bermuda,BMU,"Age population, age 00, female, interpolated",SP.POP.AG00.FE.IN,..,..,..,..,..,..,..,..,..,..
+Bermuda,BMU,"Age population, age 00, male, interpolated",SP.POP.AG00.MA.IN,..,..,..,..,..,..,..,..,..,..
+Bermuda,BMU,"Age population, age 01, female, interpolated",SP.POP.AG01.FE.IN,..,..,..,..,..,..,..,..,..,..
+Bermuda,BMU,"Age population, age 01, male, interpolated",SP.POP.AG01.MA.IN,..,..,..,..,..,..,..,..,..,..
+Bermuda,BMU,"Age population, age 02, female, interpolated",SP.POP.AG02.FE.IN,..,..,..,..,..,..,..,..,..,..
+Bermuda,BMU,"Age population, age 02, male, interpolated",SP.POP.AG02.MA.IN,..,..,..,..,..,..,..,..,..,..
+Bermuda,BMU,"Age population, age 03, female, interpolated",SP.POP.AG03.FE.IN,..,..,..,..,..,..,..,..,..,..
+Bermuda,BMU,"Age population, age 03, male, interpolated",SP.POP.AG03.MA.IN,..,..,..,..,..,..,..,..,..,..
+Bermuda,BMU,"Age population, age 04, female, interpolated",SP.POP.AG04.FE.IN,..,..,..,..,..,..,..,..,..,..
+Bermuda,BMU,"Age population, age 04, male, interpolated",SP.POP.AG04.MA.IN,..,..,..,..,..,..,..,..,..,..
+Bermuda,BMU,"Age population, age 05, female, interpolated",SP.POP.AG05.FE.IN,..,..,..,..,..,..,..,..,..,..
+Bermuda,BMU,"Age population, age 05, male, interpolated",SP.POP.AG05.MA.IN,..,..,..,..,..,..,..,..,..,..
+Bermuda,BMU,"Age population, age 06, female, interpolated",SP.POP.AG06.FE.IN,..,..,..,..,..,..,..,..,..,..
+Bermuda,BMU,"Age population, age 06, male, interpolated",SP.POP.AG06.MA.IN,..,..,..,..,..,..,..,..,..,..
+Bermuda,BMU,"Age population, age 07, female, interpolated",SP.POP.AG07.FE.IN,..,..,..,..,..,..,..,..,..,..
+Bermuda,BMU,"Age population, age 07, male, interpolated",SP.POP.AG07.MA.IN,..,..,..,..,..,..,..,..,..,..
+Bermuda,BMU,"Age population, age 08, female, interpolated",SP.POP.AG08.FE.IN,..,..,..,..,..,..,..,..,..,..
+Bermuda,BMU,"Age population, age 08, male, interpolated",SP.POP.AG08.MA.IN,..,..,..,..,..,..,..,..,..,..
+Bermuda,BMU,"Age population, age 09, female, interpolated",SP.POP.AG09.FE.IN,..,..,..,..,..,..,..,..,..,..
+Bermuda,BMU,"Age population, age 09, male, interpolated",SP.POP.AG09.MA.IN,..,..,..,..,..,..,..,..,..,..
+Bermuda,BMU,"Age population, age 10, female, interpolated",SP.POP.AG10.FE.IN,..,..,..,..,..,..,..,..,..,..
+Bermuda,BMU,"Age population, age 10, male, interpolated",SP.POP.AG10.MA.IN,..,..,..,..,..,..,..,..,..,..
+Bhutan,BTN,Age dependency ratio (% of working-age population),SP.POP.DPND,57.0187413817589,55.3455793714457,53.7143420533719,52.1689666475984,50.7622440229208,49.5259753199025,48.3353501754753,47.3714692336582,46.5724999514271,45.8431123716621
+Bhutan,BTN,"Age dependency ratio, old",SP.POP.DPND.OL,8.07194198463491,8.19213343670316,8.30660356689014,8.41298101953323,8.50618622194919,8.5874988958255,8.66664921645179,8.73159257575458,8.79869435971167,8.88618346112976
+Bhutan,BTN,"Age dependency ratio, young",SP.POP.DPND.YG,48.946799397124,47.1534459347426,45.4077384864817,43.7559856280651,42.2560578009716,40.938476424077,39.6687009590235,38.6398766579036,37.7738055917154,36.9569289105323
+Bhutan,BTN,"Age population, age 00, female, interpolated",SP.POP.AG00.FE.IN,6532,6387,6222,6068,5969,5952,6047,6222,6423,6573
+Bhutan,BTN,"Age population, age 00, male, interpolated",SP.POP.AG00.MA.IN,6721,6570,6400,6244,6147,6137,6235,6419,6630,6787
+Bhutan,BTN,"Age population, age 01, female, interpolated",SP.POP.AG01.FE.IN,6539,6495,6284,6163,6077,6043,5971,6169,6275,6359
+Bhutan,BTN,"Age population, age 01, male, interpolated",SP.POP.AG01.MA.IN,6745,6682,6477,6353,6269,6241,6158,6374,6487,6576
+Bhutan,BTN,"Age population, age 02, female, interpolated",SP.POP.AG02.FE.IN,6570,6517,6466,6257,6180,6132,6047,5985,6174,6205
+Bhutan,BTN,"Age population, age 02, male, interpolated",SP.POP.AG02.MA.IN,6786,6716,6654,6457,6382,6339,6244,6176,6387,6422
+Bhutan,BTN,"Age population, age 03, female, interpolated",SP.POP.AG03.FE.IN,6622,6558,6503,6441,6279,6218,6126,6044,5995,6105
+Bhutan,BTN,"Age population, age 03, male, interpolated",SP.POP.AG03.MA.IN,6841,6764,6699,6634,6485,6429,6329,6242,6192,6319
+Bhutan,BTN,"Age population, age 04, female, interpolated",SP.POP.AG04.FE.IN,6691,6616,6554,6494,6416,6303,6209,6115,6039,6006
+Bhutan,BTN,"Age population, age 04, male, interpolated",SP.POP.AG04.MA.IN,6910,6823,6754,6690,6616,6515,6414,6315,6238,6208
+Bhutan,BTN,"Age population, age 05, female, interpolated",SP.POP.AG05.FE.IN,6775,6687,6617,6555,6483,6387,6294,6193,6100,6034
+Bhutan,BTN,"Age population, age 05, male, interpolated",SP.POP.AG05.MA.IN,6990,6893,6817,6752,6683,6596,6499,6395,6300,6235
+Bhutan,BTN,"Age population, age 06, female, interpolated",SP.POP.AG06.FE.IN,6869,6769,6691,6623,6554,6469,6382,6278,6174,6086
+Bhutan,BTN,"Age population, age 06, male, interpolated",SP.POP.AG06.MA.IN,7079,6972,6888,6819,6752,6674,6585,6479,6373,6284
+Bhutan,BTN,"Age population, age 07, female, interpolated",SP.POP.AG07.FE.IN,6972,6858,6771,6699,6629,6550,6471,6370,6259,6156
+Bhutan,BTN,"Age population, age 07, male, interpolated",SP.POP.AG07.MA.IN,7176,7058,6967,6892,6824,6751,6674,6570,6457,6352
+Bhutan,BTN,"Age population, age 08, female, interpolated",SP.POP.AG08.FE.IN,7080,6957,6856,6778,6706,6630,6557,6467,6354,6241
+Bhutan,BTN,"Age population, age 08, male, interpolated",SP.POP.AG08.MA.IN,7278,7152,7050,6969,6898,6826,6757,6670,6553,6435
+Bhutan,BTN,"Age population, age 09, female, interpolated",SP.POP.AG09.FE.IN,7190,7062,6949,6858,6784,6710,6636,6558,6459,6340
+Bhutan,BTN,"Age population, age 09, male, interpolated",SP.POP.AG09.MA.IN,7383,7252,7141,7050,6975,6902,6831,6760,6663,6536
+Bhutan,BTN,"Age population, age 10, female, interpolated",SP.POP.AG10.FE.IN,7298,7171,7053,6947,6859,6786,6710,6635,6555,6453
+Bhutan,BTN,"Age population, age 10, male, interpolated",SP.POP.AG10.MA.IN,7488,7357,7240,7139,7053,6978,6899,6831,6760,6657
+Bolivia,BOL,Age dependency ratio (% of working-age population),SP.POP.DPND,68.3691088304647,67.5525956414145,66.7754538979556,66.0089637234064,65.2107446299457,64.3685000434748,63.623463871929,62.8147403592503,61.9839670266234,61.1964472404396
+Bolivia,BOL,"Age dependency ratio, old",SP.POP.DPND.OL,10.2994190366897,10.4598866156159,10.6205114821205,10.7816157692498,10.9427775945792,11.1049633110415,11.2910409740448,11.4717303346597,11.6498016923282,11.8296134889158
+Bolivia,BOL,"Age dependency ratio, young",SP.POP.DPND.YG,58.069689793775,57.0927090257986,56.1549424158351,55.2273479541566,54.2679670353664,53.2635367324333,52.3324228978841,51.3430100245905,50.3341653342952,49.3668337515238
+Bolivia,BOL,"Age population, age 00, female, interpolated",SP.POP.AG00.FE.IN,116409,116611,117196,117938,118513,118693,118271,117469,116552,115892
+Bolivia,BOL,"Age population, age 00, male, interpolated",SP.POP.AG00.MA.IN,121801,122060,122728,123557,124193,124387,123932,123055,122042,121303
+Bolivia,BOL,"Age population, age 01, female, interpolated",SP.POP.AG01.FE.IN,116747,116183,117043,117349,117574,117608,118074,116834,116329,115975
+Bolivia,BOL,"Age population, age 01, male, interpolated",SP.POP.AG01.MA.IN,122058,121530,122468,122832,123094,123134,123665,122297,121735,121329
+Bolivia,BOL,"Age population, age 02, female, interpolated",SP.POP.AG02.FE.IN,116859,116398,115939,116844,116823,116759,117171,117497,116134,116005
+Bolivia,BOL,"Age population, age 02, male, interpolated",SP.POP.AG02.MA.IN,122089,121669,121235,122207,122208,122146,122621,122985,121468,121310
+Bolivia,BOL,"Age population, age 03, female, interpolated",SP.POP.AG03.FE.IN,116758,116442,116031,115691,116226,116108,116446,116775,116944,115983
+Bolivia,BOL,"Age population, age 03, male, interpolated",SP.POP.AG03.MA.IN,121906,121638,121255,120929,121498,121383,121780,122150,122328,121244
+Bolivia,BOL,"Age population, age 04, female, interpolated",SP.POP.AG04.FE.IN,116457,116319,116008,115661,115461,115619,115871,116175,116403,116384
+Bolivia,BOL,"Age population, age 04, male, interpolated",SP.POP.AG04.MA.IN,121522,121441,121163,120831,120637,120802,121108,121454,121703,121665
+Bolivia,BOL,"Age population, age 05, female, interpolated",SP.POP.AG05.FE.IN,115968,116031,115862,115570,115307,115254,115417,115675,115927,116026
+Bolivia,BOL,"Age population, age 05, male, interpolated",SP.POP.AG05.MA.IN,120952,121079,120952,120678,120419,120364,120574,120874,121152,121248
+Bolivia,BOL,"Age population, age 06, female, interpolated",SP.POP.AG06.FE.IN,115306,115591,115587,115402,115149,114978,115048,115256,115503,115674
+Bolivia,BOL,"Age population, age 06, male, interpolated",SP.POP.AG06.MA.IN,120209,120567,120611,120452,120205,120028,120138,120386,120663,120843
+Bolivia,BOL,"Age population, age 07, female, interpolated",SP.POP.AG07.FE.IN,114484,115014,115197,115140,114958,114751,114729,114882,115118,115325
+Bolivia,BOL,"Age population, age 07, male, interpolated",SP.POP.AG07.MA.IN,119306,119918,120157,120133,119965,119754,119761,119952,120221,120446
+Bolivia,BOL,"Age population, age 08, female, interpolated",SP.POP.AG08.FE.IN,113514,114250,114704,114798,114710,114539,114466,114521,114740,114975
+Bolivia,BOL,"Age population, age 08, male, interpolated",SP.POP.AG08.MA.IN,118256,119079,119602,119737,119668,119499,119450,119534,119789,120050
+Bolivia,BOL,"Age population, age 09, female, interpolated",SP.POP.AG09.FE.IN,112410,113283,114000,114391,114417,114303,114246,114222,114336,114593
+Bolivia,BOL,"Age population, age 09, male, interpolated",SP.POP.AG09.MA.IN,117074,118030,118828,119276,119329,119224,119187,119186,119330,119620
+Bolivia,BOL,"Age population, age 10, female, interpolated",SP.POP.AG10.FE.IN,111172,112146,113035,113745,114094,114059,114019,113994,114001,114146
+Bolivia,BOL,"Age population, age 10, male, interpolated",SP.POP.AG10.MA.IN,115752,116809,117781,118566,118963,118943,118918,118915,118945,119120
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Data from database: Population estimates and projections,,,,,,,,,,,,,
+Last Updated: 12/18/2020,,,,,,,,,,,,,
