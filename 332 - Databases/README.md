@@ -1,3 +1,5 @@
+# Databases
+
 In this class, we learned about file management and databases. We learned to form SQL queries and also to use PHP to create a dynamic website.
 
 Here are some photos to give a brief highlight of what we did in class
