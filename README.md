@@ -10,8 +10,7 @@ I have a strong foundation in Python and C++.
 Technologies that I have used:
 - Python
   - numPy, matplotlib, scikit-learn, jupyter notebooks
-- C++
-- C
+- C++/C
   - openMP, MPI, CUDA
 - R
 - HTML/CSS
