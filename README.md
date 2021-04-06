@@ -12,9 +12,8 @@ Language and technology experience:
   - openMP, MPI, CUDA
 - R
   - tidyverse, dplyr, ggplot2
-- HTML/CSS
-- Javascript
-- Vue
 - Java
 - MySQL
 - Google Firebase
+- Vue
+- Javascript
