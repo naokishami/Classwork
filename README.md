@@ -17,3 +17,5 @@ Language and technology experience:
 - Google Firebase
 - Vue
 - Javascript
+- PHP
+- Assembly (MIPS)
