@@ -7,10 +7,11 @@ As of the time of writing, I am a senior at Cal State Fullerton. I have grown to
 
 Languages and technology experience:
 - Python
-  - numPy, matplotlib, scikit-learn, jupyter notebooks
+  - numPy, pandas, matplotlib, scikit-learn, jupyter notebooks
 - C++/C
   - openMP, MPI, CUDA
 - R
+  - tidyverse, dplyr, ggplot2
 - HTML/CSS
 - Javascript
 - Vue
