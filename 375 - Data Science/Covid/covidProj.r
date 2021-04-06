@@ -30,15 +30,43 @@ demo.tidy <- demo.tidy %>%
   mutate(SP.DYN.AMRT.TOTL = SP.DYN.AMRT.FE + SP.DYN.AMRT.MA) %>%
   mutate(SP.POP.65UP.TOTL = SP.POP.65UP.FE.IN + SP.POP.65UP.MA.IN)
 
-# Putting countries into its own variable. 
-# Use later to find which countries have different names in different datasets
-bed.countries <- bed.tidy %>% distinct(Country) %>% ungroup()
-covid.countries <- covid.tidy %>% distinct(`Country/Region`)
-demo.countries <- demo.tidy %>% distinct(`Country Name`) %>% ungroup() %>% select(`Country Name`)
+# Rename header
+bed.tidy <- bed.tidy %>% 
+  rename(HospitalBeds = `Hospital beds (per 10 000 population)`) 
 
+# Rename header
+covid.tidy <- covid.tidy %>% 
+  rename(ProvinceState = `Province/State`) %>%
+  rename(CountryRegion = `Country/Region`)
+
+# Rename header
+demo.tidy <- demo.tidy %>% 
+  rename(CountryName = `Country Name`) %>%
+  rename(CountryCode = `Country Code`)
+
+# Rename countries in a standard format so we can join tables later
 bed.tidy <- bed.tidy %>% 
   mutate(Country = replace(Country, Country == "Republic of Korea", "South Korea")) %>%
   mutate(Country = replace(Country, Country == "Democratic People's Republic of Korea", "North Korea")) %>%
   mutate(Country = replace(Country, Country == "Iran (Islamic Republic of)", "Iran")) %>%
   mutate(Country = replace(Country, Country == "United Kingdom of Great Britain and Northern Ireland", "United Kingdom"))
+
+# Renaming countries
+covid.tidy <- covid.tidy %>% 
+  mutate(CountryRegion = replace(CountryRegion, CountryRegion == "Korea, South", "South Korea"))
+
+# Renaming countries
+demo.tidy <- demo.tidy %>% 
+  mutate(CountryName = replace(CountryName, CountryName == "Korea, Rep.", "South Korea")) %>%
+  mutate(CountryName = replace(CountryName, CountryName == "Korea, Dem. People’s Rep.", "North Korea")) %>%
+  mutate(CountryName = replace(CountryName, CountryName == "Iran, Islamic Rep.", "Iran"))
   
+  
+
+
+
+
+
+
+
+
