@@ -3,9 +3,9 @@
 A repository for all my school work
 
 #### About Me
-I am a senior at California State University, Fullerton studying Computer Science. I got interested in computers because of my father working as a System Admin. Although I do not consider myself nowhere near an expert, I find the topics of Machine Learning, Data Science, and Software Architecture fascinating. 
+As of the time of writing, I am a senior at Cal State Fullerton. I have grown to love the different fields of computer science and software engineering during my time as a college student. So far, the fields that I find the most interesting are Machine Learning and Software Architecture.
 
-Technologies that I have used:
+Here is a list of technologies that I have used:
 - Python
   - numPy, matplotlib, scikit-learn, jupyter notebooks
 - C++/C
@@ -17,9 +17,3 @@ Technologies that I have used:
 - Java
 - MySQL
 - Google Firebase
-
-Areas I have developed in:
-- Web development
-- OS threads
-- High Performance Computing
-- Machine Learning
