@@ -105,12 +105,25 @@ index <- c(1:8, 10:12)
 covid.table <- covid.table %>% 
   select(headers[index])
 
+# Reordering columns so that it is easier to manage
+covid.table <- covid.table[, c(1, 2, 3, 4, 5, 12, 6, 7, 8, 9, 10, 11, 13)]
 
 ###################
 # Linear Modeling #
 ###################
 
+# Helper function to help us make proportions
+convert_population_to_decimal <- function(value, total) {
+  return(value/total)
+}
 
+# Transforming population counts to proportion of total population
+covid.table <- covid.table %>% 
+  mutate(across(SP.POP.80UP.TOTL:SP.POP.65UP.TOTL, ~convert_to_decimal(value = .x, total = SP.POP.TOTL))) %>% 
+  mutate(SP.URB.TOTL = convert_to_decimal(value = SP.URB.TOTL, total = SP.POP.TOTL))
+
+
+  
 
 
 
