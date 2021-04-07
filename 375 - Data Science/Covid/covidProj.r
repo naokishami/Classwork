@@ -7,6 +7,10 @@ covidDeath <- read_csv("https://raw.githubusercontent.com/CSSEGISandData/COVID-1
 bed <- read_csv("/Users/naoki_atkins/Desktop/data.csv")
 demo <- read_csv("/Users/naoki_atkins/Desktop/demographics.csv")
 
+##################
+# Data Wrangling #
+##################
+
 # Tidying the data
 covid.tidy <- covid %>% 
   pivot_longer(cols = 5:ncol(covid), names_to = "Date", values_to = "confirmed")
@@ -95,9 +99,16 @@ covid.table <- covid.tidy %>%
   full_join(bed.tidy) %>% 
   full_join(demo.tidy) 
 
-covid.table <- covid.table %>% 
-  select(-Year, -CountryCode)
+headers <- covid.table %>% colnames()
+index <- c(1:8, 10:12)
 
+covid.table <- covid.table %>% 
+  select(headers[index])
+
+
+###################
+# Linear Modeling #
+###################
 
 
 
