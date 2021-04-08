@@ -99,14 +99,24 @@ covid.table <- covid.tidy %>%
   full_join(bed.tidy) %>% 
   full_join(demo.tidy) 
 
-headers <- covid.table %>% colnames()
-index <- c(1:8, 10:12)
-
-covid.table <- covid.table %>% 
-  select(headers[index])
-
-# Reordering columns so that it is easier to manage
-covid.table <- covid.table[, c(1, 2, 3, 4, 5, 12, 6, 7, 8, 9, 10, 11, 13)]
+covid.table <- covid.table %>%
+  select(-SP.POP.80UP.FE, 
+         -SP.POP.80UP.MA,
+         -SP.DYN.AMRT.FE,
+         -SP.DYN.AMRT.MA,
+         -SP.DYN.LE00.IN,
+         -SP.POP.1564.MA.IN,
+         -SP.POP.1564.FE.IN,
+         -SP.POP.0014.MA.IN,
+         -SP.POP.0014.FE.IN,
+         -SP.POP.TOTL.FE.IN,
+         -SP.POP.TOTL.MA.IN,
+         -SP.POP.65UP.FE.IN,
+         -SP.POP.65UP.MA.IN,
+         -SP.DYN.AMRT.TOTL,
+         -SP.URB.TOTL,
+         -CountryCode,
+         -Year)
 
 ###################
 # Linear Modeling #
@@ -119,9 +129,7 @@ convert_population_to_decimal <- function(value, total) {
 
 # Transforming population counts to proportion of total population
 covid.table <- covid.table %>% 
-  mutate(across(SP.POP.80UP.TOTL:SP.POP.65UP.TOTL, ~convert_to_decimal(value = .x, total = SP.POP.TOTL))) %>% 
-  mutate(SP.URB.TOTL = convert_to_decimal(value = SP.URB.TOTL, total = SP.POP.TOTL))
-
+  mutate(across(SP.POP.80UP.TOTL:SP.POP.65UP.TOTL, ~convert_population_to_decimal(value = .x, total = SP.POP.TOTL)))
 
   
 
