@@ -1,5 +1,5 @@
 Took data from 3 different sources: <br>
-- John Hopkins number of confirmed covid cases (https://github.com/CSSEGISandData/COVID-19)
+- John Hopkins University [number of confirmed covid cases] (https://github.com/CSSEGISandData/COVID-19)
 - World Health Organization bed density (https://apps.who.int/gho/data/view.main.HS07v)
 - World Bank demographic (https://databank.worldbank.org/source/population-estimates-and-projections/Type/TABLE/preview/on#)
 
