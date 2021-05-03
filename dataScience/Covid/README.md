@@ -17,5 +17,7 @@ Data was merged by country
 #### Linear Modeling
 Used the lm() function supported by R to find a model that would predict the number of deaths (dependent variable) based on the number of cases, hospital infrastructure, and the country's age demographics (independent variables). This model had a R2 value of 0.804.
 
+***
+
 In the plots folder, you'll find all the plots that I have created with my linear model.
 ![Japan linear model plot](https://github.com/naokishami/Classwork/blob/dc745033fcc43577f4d082bfd2687c3e459f5d69/375%20-%20Data%20Science/Covid/plots/Japan.png)
