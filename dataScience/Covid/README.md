@@ -9,7 +9,7 @@ Took data from 3 different sources: <br>
 Many countries had mismatching names so I labelled all the countries so that they were matching. Some countries were divided into states/provinces, so I summed up all the number of covid cases in these state/provinces into a country level. 
 
 #### Data Wrangling
-Data from John Hopkins came in a wide format where all of the dates were in a single row with the number of covid cases in corresponding columns. To get this in a tidy format, I used pivot_longer so all dates would fall underneath in a single column (Date) with their corresponding number of covid cases to the column right next to it.
+Data from John Hopkins came in a wide format where all of the dates were in a single row with the number of covid cases in corresponding columns. To get this in a tidy format, I used pivot_longer() so all dates would fall underneath in a single column (Date) with their corresponding number of covid cases to the column right next to it.
 
 #### Merging the data
 Data was merged by country
