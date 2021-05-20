@@ -1,4 +1,4 @@
-Took data from 3 different sources: <br>
+Data came from 3 different sources: <br>
 - [John Hopkins University](https://github.com/CSSEGISandData/COVID-19)
 - [World Health Organization](https://apps.who.int/gho/data/view.main.HS07v)
 - [World Bank](https://databank.worldbank.org/source/population-estimates-and-projections/Type/TABLE/preview/on#)
